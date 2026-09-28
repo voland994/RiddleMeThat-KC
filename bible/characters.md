@@ -121,6 +121,20 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Voice:** wry, slower than Eric Tran, self-deprecating, talks about his kid. East Coast, but not a Philly cliché.
 - **Proposed observation (never stated):** he has the easy upper-middle-class manner Philip lacks, and he moved here for his wife's family and seems fine with it.
 
+#### Clinic staff
+- **Aaliyah:** medical assistant who rooms his patients. Young, long box braids. Reports facts neutrally.
+- **Monique:** at checkout. Handles social work's same-day Lyft codes.
+
+### Patients (from Session 1)
+
+- **Gloria Martens, 71.** Raytown, retired bank teller. Focal epilepsy since 1987, phenytoin for ~30 years, seizure-free since 2007, osteoporosis. Brings a typed med list in a sheet protector. Drives her friend Doris to church. Considering a slow switch to lamotrigine. **Perceptiveness:** medium; formal; notices whether she's being rushed.
+- **Cody Harmon, 27.** Argentine (KCK). Warehouse inbound worker in Edgerton, reach-truck certified, four 10s from 6 a.m. Epilepsy diagnosed Aug 25 (seizures ~Dec 27, 2024 in sleep, and Aug 9, 2025 at 5:10 a.m.). On levetiracetam. No driving until ~Feb 9, 2026. Anxious about money, admits a short temper, smoked cannabis a few nights a week for sleep. **Perceptiveness:** low; honest when asked.
+- **Alexis:** Cody's girlfriend, daycare assistant, has pediatric CPR. Observant and careful. "Nobody calls."
+- **Jenna Albright, 29.** Lee's Summit, dental hygienist. JME, valproate 1,000 mg since 15, seizure-free since March 2019 (seizure at work during a lamotrigine trial at 22). Married to **Kyle**, an electrician. Off the pill since June, trying to conceive. Considering levetiracetam cross-over and a pause. Calls Denise by Friday. **Perceptiveness:** medium; notices whether he's listening.
+- **Harold Beck, 64,** post-stroke epilepsy, stable; wife **Carol** does the talking and keeps score of waiting times.
+- **Tom Keller, 52,** stable on lamotrigine.
+- **Brett Sorensen, 19,** convulsive syncope, not epilepsy. Discharged from follow-up.
+
 ### Outside work
 
 - **Nobody yet.**

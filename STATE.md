@@ -4,7 +4,8 @@
 
 ## Where we are
 
-- **Ground zero.** Nothing has been played yet.
+- **Session 1 in progress (Episode 1).** Scene 1, Monday clinic on Aug 25, has been played. See `sessions/01-2025-08-25.md`. Next up: Scene 2, Monday evening in the Roanoke apartment, Hinge.
+
 - **In-world date: Monday, August 25, 2025.** Philip started at Blue River Neuroscience Institute on **Monday, August 4, 2025.** He is three weeks in.
 - He moved from Cleveland in late July after finishing six years of training at the Euclid Clinic (see `bible/protagonist.md`).
 - **Almost nothing about his Kansas City life exists yet:** where he lives, who he works with, his patients, who he knows, whether he's found a climbing gym, whether he's dating. All of that gets built in play, with the player.
