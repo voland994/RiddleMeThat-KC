@@ -120,6 +120,7 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Philip, to him:** a nice guy from orientation who's also new. Sam doesn't have many friends here either, but he has a wife and in-laws, so he feels it less.
 - **Perceptiveness:** medium. Says things as jokes.
 - **Voice:** wry, slower than Eric Tran, self-deprecating, talks about his kid. East Coast, but not a Philly cliché.
+- **Established in play (Sep 3):** wife **Katie** (from Prairie Village); daughter **Maya**, 2 and a half; they rent in Waldo; lost three Brookside bids and will probably end up in Prairie Village ("But the schools, man"). Trained at Penn. Now calls Philip "my EEG guy" for cEEG questions. Invited Philip to dinner in September.
 - **Proposed observation (never stated):** he has the easy upper-middle-class manner Philip lacks, and he moved here for his wife's family and seems fine with it.
 
 #### Clinic staff
