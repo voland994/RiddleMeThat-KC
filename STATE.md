@@ -38,7 +38,8 @@
 
 ## Notes to self (Claude)
 
-- **He was passed over.** Six years at Euclid, chief resident, liked by everyone, and not kept on faculty because he didn't publish. He turned down a Euclid satellite job in eastern Ohio. Kansas City was the biggest city that called. This is a wound, not a speech. Nobody brings it up unless it's realistic for them to.
+- **He was passed over.** Six years at Euclid, chief resident, liked by everyone, and not kept on faculty because he didn't publish. They told him late, and his filters (no private practice, a larger metro) did the rest. He turned down a Euclid satellite job in eastern Ohio. This is a wound, not a speech.
+- **KU is two miles away,** and he'd take a job there. Interior only. If it ever opens, precommit the market first. Nobody brings it up unless it's realistic for them to.
 - **He fled the Midwest and landed deeper in it.** Don't state that. Don't wink at it.
 - **Keep spoken reads rare.** Most people take him at face value.
 - **Keep women's voices distinct.** Each woman in his life needs her own register, her own job, her own wants.

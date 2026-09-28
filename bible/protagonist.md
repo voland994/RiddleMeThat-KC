@@ -46,8 +46,18 @@
 ### Passed over (established)
 
 - **Euclid didn't keep him.** Six years there: intern, resident, chief resident, two fellowships. Everyone liked him. Residents loved him as chief. But Euclid's faculty slots go to people who publish, and he hadn't.
+- **They told him late.** He assumed he'd be kept, so he didn't really search. Euclid said no partway through his EEG fellowship year (proposed: fall 2024), when most jobs starting in July 2025 were already filled or deep into interviews.
+- **His filters narrowed it further:** no private practice, and a "larger" metro.
 - **They offered him a job at a Euclid satellite hospital in eastern Ohio.** He turned it down.
-- **Kansas City was the biggest city that called.**
+- **Kansas City was the biggest metro among the offers that fit his filters.**
+- **What his CV actually says (Claude's read, accepted):** a strong clinical hire and a weak research hire. Euclid training in epilepsy, chief resident, two fellowships, and ICU EEG skills in a shortage specialty. No first-author papers, nothing during fellowship. His market was thin because of timing and filters, not because nobody wanted him.
+
+### KU, two miles away (established)
+
+- **The University of Kansas Health System** runs the only other Level 4 epilepsy center in the Kansas City area, at 39th and Rainbow in Kansas City, Kansas, about two miles from Blue River.
+- **KU never offered him anything.** By the time he was looking, their cycle was done (no opening, or it was already filled). He didn't interview there. It wasn't a second rejection.
+- **Interior only: he'd take a KU job if it were offered.** Nobody knows this.
+- **If a KU job ever opens in the story,** Claude precommits what's realistically on offer before he looks. Realistic costs: a possible noncompete radius [check Missouri law on physician noncompetes], and how leaving within two years reads in a small specialty in a mid-size city.
 - How he talks about this, and to whom, is the player's call. Nobody in Kansas City knows unless he tells them.
 
 ## Family (established)
