@@ -99,6 +99,8 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Perceptiveness:** medium. Reads people, keeps quiet.
 - **Voice:** quiet and precise.
 
+- **Established (cutaway, Sep 4):** Meramec plans a remote overnight cEEG hub in St. Louis for Q1 2026 ("no reductions in force anticipated at this time"). His overnight techs are **Darnell** and **Rosa**. Lives in Grandview with his wife **Loretta**; has a grandson. Remembers that Philip called down twice during reading week before signing reports. Assumes a Euclid-trained doctor thinks hubs are normal. Hasn't decided whether to ask him for help.
+
 #### Dr. Tyler Brandt, PGY-3: neurology resident
 - From Wichita, KU medical school, lives in Westport.
 - **Wants:** a stroke fellowship. Epilepsy is a rotation to get through.
@@ -120,6 +122,7 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Philip, to him:** a nice guy from orientation who's also new. Sam doesn't have many friends here either, but he has a wife and in-laws, so he feels it less.
 - **Perceptiveness:** medium. Says things as jokes.
 - **Voice:** wry, slower than Eric Tran, self-deprecating, talks about his kid. East Coast, but not a Philly cliché.
+- **Established in play (Sep 3):** wife **Katie** (from Prairie Village); daughter **Maya**, 2 and a half; they rent in Waldo; lost three Brookside bids and will probably end up in Prairie Village ("But the schools, man"). Trained at Penn. Now calls Philip "my EEG guy" for cEEG questions. Invited Philip to dinner in September.
 - **Proposed observation (never stated):** he has the easy upper-middle-class manner Philip lacks, and he moved here for his wife's family and seems fine with it.
 
 #### Clinic staff
@@ -142,11 +145,15 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - Postdoc at the Stowers Institute, studying planarian regeneration. From Bologna. **J-1 research scholar** (the two-year home rule doesn't apply to her). Leaves in about two years and means it: "It's a very good two years. It's not the life." Everyone keeps asking her to stay.
 - Small, wiry, precise on her feet, a strong dynamic climber. Climbs at Sequence most Tuesdays and Thursdays after 7. Bikes everywhere on an old steel road bike with a zip-tied basket.
 - In 2020 lockdown, she was the one with the "essential" paper who walked through empty Bologna to feed the worms.
-- **With Philip:** matched Aug 25, climbed together Aug 28, and **he kissed her in the Sequence lot.** Dinner Saturday, Aug 30.
+- **With Philip:** matched Aug 25, climbed together Aug 28, and **he kissed her in the Sequence lot.** Dinner at Gram & Dun Saturday, Aug 30; he paid ("the next one is mine"); **they slept together at her place that night.** She knows Euclid didn't keep him.
+- **Her people (established in play):** Kenji, a Japanese postdoc in her lab and her closest friend here. Brother Tommaso, finance, Milan. Mother calls every Saturday. Uncle Franco makes illegal grappa in the hills outside Bologna.
+- **Her place:** a small 1960s beige-brick walk-up a few blocks south of Brush Creek, near the Plaza and Stowers.
+- **Offstage (precommit, not yet known to Philip):** a paper in major revision; her PI offered her a staff job and she said no (that part she told him).
 - **Perceptiveness:** medium-high. She says what she thinks, bluntly. Already said "I see you" (Aug 25) and called his "why Kansas City" answer the conference-dinner version, "accepted for now."
 - **Voice:** short direct lines, rounder vowels in person, Italian bursts ("*Ma dai*," "*Sì!*"), mock-solemn humor.
 
 #### Nadia Karimi, 33 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)
 - Architect at a sports-architecture firm. Rice and Harvard. From Tulsa, lives in the River Market. Was in Doha on a site walk the week of Aug 25; working on Arrowhead's World Cup readiness.
-- **With Philip:** matched Aug 25. Dinner **Friday, Sep 5** (she picks the place). In town Sep 3–12.
+- **With Philip:** matched Aug 25. First date **Fri Sep 5 at Corvino** (her pick; his topic, "what makes a place feel like home"). He paid ("professional caution"); she kissed him on Walnut. **Second date Wed Sep 10,** after 7 (she picks and pays, he brings a topic). She's gone Sep 13 to about Sep 28.
+- **Established in play:** parents from Shiraz (her father, a retired petroleum engineer, will say "The Saudis?"); mother a dentist in Tulsa for 35 years; a sister. Wanted to design libraries and social housing. **Offered project architect on a Riyadh 2034 World Cup stadium;** decision due Sep 15; she's told only her sister and Philip. She's the only person who got his Hinge *Making a Murderer* joke.
 - **Voice:** efficient, dry, self-deflating about her own glamour ("FIFA has very strong opinions about bathrooms").
