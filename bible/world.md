@@ -31,4 +31,5 @@
 - **Climbing (real gyms):** Sequence (1710 Washington, edge of the Crossroads; bouldering, the best-rated in the city proper), RoKC (several locations incl. North KC), Apex (Overland Park, KS), Rendezvous (Leawood, KS; bouldering, opened April 2024). Whether to use real names or fictional stand-ins is still open.
 - **Weather in late August:** hot and humid, often around 90°F, with evening thunderstorms.
 - **Getting home:** Kansas City International Airport (MCI) has a new single terminal (opened 2023). Manitowoc is a long drive (about 600+ miles [verify]) or a connecting flight to Green Bay.
+- **Gram & Dun** (real): contemporary American restaurant at 600 Ward Parkway on the Country Club Plaza, with a big patio on Brush Creek. Saturday dinner 4–10 p.m. Walking distance from Roanoke (about 20 minutes) and from Chiara's place near the Plaza.
 - **Clichés to go easy on:** barbecue, the Chiefs, "flyover country," cowboy imagery. A little is real texture. Stacked, it's a postcard.
