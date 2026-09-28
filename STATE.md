@@ -45,7 +45,7 @@
 
 ## Waiting on the player
 
-- **His Hinge profile:** six photos, three prompts, and which basics he fills in (politics? religion? kids?). The precommit assumes "sparse, Physician, no workplace."
+- **The Cleveland co-resident in his Hinge photo:** name, and whether Philip still talks to him.
 
 - Where he lives.
 - When Lisa visits, whether Dale comes, and their weekly call rhythm.
