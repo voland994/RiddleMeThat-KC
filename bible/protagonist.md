@@ -90,6 +90,18 @@
 - **Basics:** Physician (no workplace) · UW–Madison · hometown blank · politics liberal · religion blank · open to children · drinks socially.
 - **Considered and rejected:** a photosensitivity joke ("I wish we could cause seizures with some lights"). He went safe.
 
+### Nadia: what he actually wants (established Sep 5, 2025; interior only)
+
+- **Status.** He's drawn to Nadia for her status: Rice and Harvard, being an architect, the World Cup work, the way she carries herself. Euclid passed on him, and she's the new Euclid. Being chosen by her would stand in for being kept.
+- **Her travel is a feature, not a cost.** He'd like to end up with someone who's gone half the time. "Oh, my wife is traveling the world, I'm such a supportive husband." A husband "for the good parts": the hospital galas, her work.
+- **His Corvino lines were curated.** "I like people who have their own lives" and "home is where someone is there on a boring Tuesday" were built for her. He means to become "the silent presence on a Tuesday," the thing she comes back to in Kansas.
+- **The plan:** slowly lock her in. Give her space, enjoy the dates, and over time become the fixed point.
+- **How he justifies it:** "That's just assortative mating. I'm sure she has her own version of checking me out on paper."
+- **A line he's working on:** "Better to be first in Kansas than king in... Cleveland?" (a garbled version of Caesar's "first in a village than second in Rome").
+- **Riyadh (established):** he mostly doesn't care whether she takes it. If she does, **he'd judge her silently.** "Faced with such a legacy? Hard to say no" was a curated, supportive-sounding line, not a push either way.
+- **Observation (Claude's reading, not canon until accepted):** he'd silently judge her for the same compromise he confessed to her about himself ("me from five years ago would" call me a hypocrite). He wants her status and would hold how she earns it against her.
+- **Firewall:** nobody knows any of this. Nadia can't detect it from what he's said, which has all been smooth. Anything she ever notices has to come from his outward behavior over time.
+
 ### The ex (established)
 
 - **Anna Lindgren** (name proposed), a doctor in Madison. **Not a neurologist.** Her specialty is otherwise open.
