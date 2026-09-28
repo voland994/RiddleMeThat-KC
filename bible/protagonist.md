@@ -108,7 +108,7 @@
 - **Her two-year exit is a safety feature.** He doesn't see himself long term with her. The end date is part of why it's easy.
 - **Firewall:** nobody knows. Chiara takes him at his outward word.
 - **Guardrail (Claude):** because her appeal to him is being seen, any "being seen" she gives him must come from what she actually observes. See `principles.md`, "Guardrails against slips."
-- **Observation (Claude's reading, not canon until accepted):** both women come with built-in exits (her two years; Nadia's travel). The one who makes him feel seen is also the one most likely, over time, to notice the curation. Nothing staged; it comes out only through what Philip says and does.
+- **Observation (Claude's reading, not canon until accepted):** both women come with built-in exits (her two years; Nadia's travel). With Chiara, his terms match hers (short-term, the date known), so she's the least curated of his relationships. The risk is omission (Friday's "plans"), and what happens if she ever leans toward "open to long." Nothing staged; it comes out only through what Philip says and does.
 
 ### The ex (established)
 
