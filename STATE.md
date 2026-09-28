@@ -26,7 +26,8 @@
 | Late Jul 2025 | Moves Cleveland → Kansas City | Done (backstory) |
 | Mon Aug 4, 2025 | First day at Blue River | Done (backstory) |
 | **Mon Aug 25, 2025** | **Play begins** | **Next** |
-| Early Dec 2025 | American Epilepsy Society annual meeting [verify 2025 city and dates before using] | Upcoming |
+| Fri Oct 24, 2025 | Streetcar Main Street extension opens (to the Plaza and UMKC) | Upcoming (real) |
+| Dec 5–9, 2025 | American Epilepsy Society annual meeting, Atlanta | Upcoming (real) |
 | ~2029–2030 | PSLF forgiveness (proposed: payments began in 2019 internship) | Background |
 
 ## Waiting on the player

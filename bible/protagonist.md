@@ -76,6 +76,11 @@
 - **Together through the end of undergrad and all of med school.**
 - **She wanted to stay close to her family.** When he matched in Cleveland, he told her that even after training he wasn't coming back to Wisconsin. She was the one who broke up, but he ended it.
 
+## Home and car (established)
+
+- **Lives on or just south of the Country Club Plaza,** close to the hospital. Exact building and street still open.
+- **Car: a 2023 Toyota Camry,** his first "serious" car. He needs a car in Kansas City and knows it. (Trim to confirm: the 2023 Camry has no "XL" trim. LE, SE, XLE, XSE, or TRD.)
+
 ## Money and taste (established)
 
 - **He saves.**

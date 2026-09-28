@@ -37,8 +37,17 @@ Each person gets:
 
 ## Cleveland (the past)
 
+### Sana Qureshi: the friend he still texts (established)
+
+- Trained with Philip at Euclid. She was on a **J-1 visa** and got a **Conrad 30 waiver**, which requires three years of full-time work in an underserved area. She's now in **Charleston, West Virginia.**
+- They kept in touch, so the kinship continued. **She's married, and there's no tension there.**
+- **Open:** her specialty and training overlap with him, where she's from, her husband, when her waiver job started, and how they actually talk (texts, voice memos, calls).
+- **Perceptiveness:** not set yet.
+
+### Everyone else
+
 - His training cohort, co-residents, fellows, and attendings at Euclid exist but are **unnamed.** Build them only as the story needs them: a friend he still texts, a mentor who wrote his letters, whoever decided not to keep him.
 
 ## Kansas City
 
-- **Nobody yet.** The first session builds the first cast with the player: a division head, one or two epilepsy colleagues, an EMU charge nurse, an EEG tech, residents, patients, and whoever he meets outside work.
+- **Nobody yet at work.** The first session builds the first cast with the player: a division head, one or two epilepsy colleagues, an EMU charge nurse, an EEG tech, residents, patients, and whoever he meets outside work.
