@@ -142,7 +142,10 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - Postdoc at the Stowers Institute, studying planarian regeneration. From Bologna. **J-1 research scholar** (the two-year home rule doesn't apply to her). Leaves in about two years and means it: "It's a very good two years. It's not the life." Everyone keeps asking her to stay.
 - Small, wiry, precise on her feet, a strong dynamic climber. Climbs at Sequence most Tuesdays and Thursdays after 7. Bikes everywhere on an old steel road bike with a zip-tied basket.
 - In 2020 lockdown, she was the one with the "essential" paper who walked through empty Bologna to feed the worms.
-- **With Philip:** matched Aug 25, climbed together Aug 28, and **he kissed her in the Sequence lot.** Dinner Saturday, Aug 30.
+- **With Philip:** matched Aug 25, climbed together Aug 28, and **he kissed her in the Sequence lot.** Dinner at Gram & Dun Saturday, Aug 30; he paid ("the next one is mine"); **they slept together at her place that night.** She knows Euclid didn't keep him.
+- **Her people (established in play):** Kenji, a Japanese postdoc in her lab and her closest friend here. Brother Tommaso, finance, Milan. Mother calls every Saturday. Uncle Franco makes illegal grappa in the hills outside Bologna.
+- **Her place:** a small 1960s beige-brick walk-up a few blocks south of Brush Creek, near the Plaza and Stowers.
+- **Offstage (precommit, not yet known to Philip):** a paper in major revision; her PI offered her a staff job and she said no (that part she told him).
 - **Perceptiveness:** medium-high. She says what she thinks, bluntly. Already said "I see you" (Aug 25) and called his "why Kansas City" answer the conference-dinner version, "accepted for now."
 - **Voice:** short direct lines, rounder vowels in person, Italian bursts ("*Ma dai*," "*Sì!*"), mock-solemn humor.
 
