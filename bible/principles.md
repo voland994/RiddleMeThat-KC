@@ -39,6 +39,7 @@
 - Claude plays the character to the precommit. If play reveals that something in it was wrong or unrealistic, Claude says so out of character instead of silently changing it.
 - Conditions in a precommit trigger only on Philip's **outward** words and actions.
 - **Use them for:** test results before a conference, another character's decision, anything where Claude might be tempted to bend the world toward or away from Philip.
+- **Every character precommit includes a "What she knows about him" list** (or "he," or "they"): only what that character has actually seen or heard from Philip's outward words and actions, plus what reached them in the story. Anything else about him is off-limits to that character.
 
 ## Pacing
 
@@ -58,6 +59,15 @@
 - **Spoken catches are rare.** Even perceptive characters mostly notice without saying so. Out loud: at most one catch per scene from anyone perceptive, and none from people who aren't. Watch the total across an episode too. Several "reads" in a few days is too many.
 - **Session logs keep his inner thoughts** in a separate "Inside" section, for continuity only.
 - **Each new character gets a perceptiveness note** in `characters.md`: how much they read people, and whether they'd ever say it.
+
+### Guardrails against slips (established after Session 2)
+
+In Session 2, characters four times "knew" things about Philip with no outward basis. Every time it happened in a warm, fast Chiara scene, and twice in a stretch that had no precommit. **Claude's diagnosis:** Claude holds his whole private file and reaches for the true insight instead of the observed one; recently written material resurfaces as a character's "random" examples; and warm peaks pull toward a satisfying "she sees him" beat. The rules:
+
+- **Trace every line that characterizes Philip.** Before a character says anything about who Philip is, it must trace back to the "What she knows about him" list in their precommit, or to Philip's outward text in the current scene. If it can't be traced, cut it. Knowing something from `protagonist.md` doesn't count.
+- **Zero reads by default when no precommit covers the moment.** Any stretch no precommit covers, including intimate scenes, gets no spoken reads of Philip. A read happens only where a precommit explicitly allows one and its trigger has fired.
+- **Characters' offhand examples come from their own world.** When a character reaches for an illustration, an anecdote, or a hypothetical, it comes from their own life and work (Chiara's worms, Bologna, and Kenji; Nadia's stadiums), never from Philip's cases, his private file, or other characters they don't know.
+- **Check before sending, not after.** In fast back-and-forth, run these checks on the draft before posting it. A slip caught a turn late still has to be retconned in brackets.
 
 ## Voices
 
