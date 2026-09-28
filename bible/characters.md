@@ -76,6 +76,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Philip, to her:** the fifth new doctor she's had to break in. She'll decide within about a month whether he listens.
 - **Perceptiveness:** high. Almost never says what she reads. Shows it through which patients she sends him.
 - **Voice:** brisk and practical. Knows patients' first names and their dogs' names. Warm, but not anyone's mom.
+- **Home (established in cutaway):** a bungalow on the Westside, three blocks from where she grew up. Son **Gabe**, 17, a senior applying to KU Engineering. Judy Hartsock texts her every Monday asking about "my people."
 
 #### Dr. Eric Tran, 41: epileptologist and SEEG lead
 - Trained at Mayo, grew up in Houston, two small kids. Runs surgery conference.
