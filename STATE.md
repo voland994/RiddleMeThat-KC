@@ -9,6 +9,18 @@
 - He moved from Cleveland in late July after finishing six years of training at the Euclid Clinic (see `bible/protagonist.md`).
 - **Almost nothing about his Kansas City life exists yet:** where he lives, who he works with, his patients, who he knows, whether he's found a climbing gym, whether he's dating. All of that gets built in play, with the player.
 
+## His first three weeks (established backstory)
+
+| Week | What happened |
+|---|---|
+| Aug 4–8 | Orientation, Epic training (same software as Euclid, none of his shortcuts), badge, parking. Met Reinholt and Denise. Met **Sam Feldman** at orientation. A couple of half-days shadowing. Hartsock emailed a handoff spreadsheet, and he replied. |
+| Aug 11–15 | Ramp-up clinic week, half volume, longer visits. First inherited patients. |
+| Aug 18–22 | EEG reading week with Marcus's team. First home call. **First surgery conference, Thu Aug 21:** not his patient. He was neutral: said what he saw on the EEG and what he could read from it, and no more. |
+| Mon Aug 25 | First full clinic week, with Tyler rotating through. **Play starts here.** |
+
+- Unpacked the apartment in one Saturday.
+- **Hinge:** no dates yet in Kansas City. The player wants someone opposite him soon. The pool is precommitted in `precommits/2025-08-hinge-pool.md`.
+
 ## First session: suggested approach (proposed)
 
 1. Before playing, settle a few basics with the player, and **challenge vagueness**:
@@ -31,6 +43,8 @@
 | ~2029–2030 | PSLF forgiveness (proposed: payments began in 2019 internship) | Background |
 
 ## Waiting on the player
+
+- **His Hinge profile:** six photos, three prompts, and which basics he fills in (politics? religion? kids?). The precommit assumes "sparse, Physician, no workplace."
 
 - Where he lives.
 - When Lisa visits, whether Dale comes, and their weekly call rhythm.

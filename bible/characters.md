@@ -68,6 +68,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - 25 years at Blue River. Beloved. Kept long-stable patients on older drugs (phenytoin, phenobarbital). Some patients had her cell number.
 - **Wants:** to actually be retired. Still answers some patient emails.
 - Lives in charts, in patients' mouths ("Dr. Hartsock always..."), and maybe one coffee if Philip asks.
+- **They haven't met.** She sent him a short, warm email with a spreadsheet of "patients to keep an eye on." **He replied.**
 
 #### Denise Ortiz, APRN, 49: the epilepsy nurse practitioner
 - Worked with Hartsock for 15 years. Grew up in the Westside.
@@ -106,6 +107,19 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 
 #### Others
 - Two more epileptologists, unnamed until needed.
+
+### The friend from orientation (established; details proposed)
+
+He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far: one lunch, some texts about Epic, and a vague "we should get a beer."
+
+#### Dr. Sam Feldman, 36: new ICU doctor (details proposed)
+- Pulmonary and critical care, just hired from Philadelphia. **He orders continuous EEG on his ICU patients,** so they overlap at work.
+- Married. His wife is from Prairie Village, and she's the reason they moved: her family is here. They have a toddler.
+- **Wants:** to survive ICU weeks with a toddler at home, and to buy a house in Brookside before winter.
+- **Philip, to him:** a nice guy from orientation who's also new. Sam doesn't have many friends here either, but he has a wife and in-laws, so he feels it less.
+- **Perceptiveness:** medium. Says things as jokes.
+- **Voice:** wry, slower than Eric Tran, self-deprecating, talks about his kid. East Coast, but not a Philly cliché.
+- **Proposed observation (never stated):** he has the easy upper-middle-class manner Philip lacks, and he moved here for his wife's family and seems fine with it.
 
 ### Outside work
 
