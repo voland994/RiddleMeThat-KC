@@ -10,7 +10,7 @@
 - **Nonprofit employer,** so his PSLF payments keep counting.
 - **Checked against the real institution (Sep 2026 research):** adult Level 4 epilepsy center (NAEC's highest), **12-bed EMU**, monthly multidisciplinary epilepsy surgery conference, 3T MRI, ROSA robot. Level 1 comprehensive stroke center.
 - **Residency:** the real neurology residency (UMKC with Saint Luke's) takes **3 residents per year**, with rotations shared with the city safety-net hospital (University Health Truman) and pediatrics at Children's Mercy. In the story: a small program, so he'll know every resident by name.
-- **The real parent system merged into BJC (St. Louis) on Jan 1, 2024.** Proposed: Blue River's parent went through the same kind of merger, so there are St. Louis administrators and "system standardization."
+- **The real parent system merged into BJC (St. Louis) on Jan 1, 2024.** Established: Blue River's system was absorbed in 2024 by **Meramec Health**, a fictional St. Louis system. So there are St. Louis administrators and "system standardization."
 
 ## The Euclid Clinic (his past)
 
