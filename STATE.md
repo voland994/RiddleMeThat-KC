@@ -33,7 +33,7 @@
 ## Waiting on the player
 
 - Where he lives.
-- Whether his mom (Lisa) has visited or will; their weekly call rhythm.
+- When Lisa visits, whether Dale comes, and their weekly call rhythm.
 - Anything else he brought from Cleveland: friends he still texts, things he misses, things he doesn't.
 
 ## Notes to self (Claude)

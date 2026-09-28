@@ -89,6 +89,7 @@
 ## Home and car (established)
 
 - **Lives in Roanoke,** the quiet side streets just west of Westport, in an old brick apartment building near Roanoke Park. The Westport bars are about five minutes' walk away, and the hospital is about 20 minutes' walk. Residents live around here too.
+- **The apartment is mostly unpacked.** He set aside one Saturday and did it. He's not sentimental about it.
 - **Car: a 2023 Toyota Camry XLE,** his first "serious" car, bought on a fellow's salary (proposed). He needs a car in Kansas City and knows it.
 
 ## Money and taste (established)

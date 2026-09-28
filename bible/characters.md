@@ -12,6 +12,7 @@ Each person gets:
 
 - Still in Manitowoc, in the grandparents' house. Works in administration. Talks to Philip weekly, on the phone, and gets financial help from him.
 - Her joke: he did it, and they're milking it for profit.
+- **She plans to visit Kansas City.** (When, and whether Dale comes, is open.)
 - **Her own life (proposed):** she has her own friends and routines, and her life doesn't revolve around her son. Possibly a serious birder (the Christmas Bird Count at Woodland Dunes in Two Rivers, a life list past 200). Philip knows she "watches birds" and doesn't know it's serious.
 - **Perceptiveness:** knows his voice better than anyone, but reads it through her own worries. Says it rarely, and sideways.
 - **Writing note:** go easy on Wisconsin signifiers (Packers, Culver's, "hon," "for Pete's sake"). A few are texture; stacked, they turn her into a type.
