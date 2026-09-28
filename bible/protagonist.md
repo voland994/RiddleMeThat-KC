@@ -88,8 +88,8 @@
 
 ## Home and car (established)
 
-- **Lives on or just south of the Country Club Plaza,** close to the hospital. Exact building and street still open.
-- **Car: a 2023 Toyota Camry,** his first "serious" car. He needs a car in Kansas City and knows it. (Trim to confirm: the 2023 Camry has no "XL" trim. LE, SE, XLE, XSE, or TRD.)
+- **Lives in the Westport/Midtown area,** about a mile north of the hospital. Exact block and building still open.
+- **Car: a 2023 Toyota Camry XLE,** his first "serious" car, bought on a fellow's salary (proposed). He needs a car in Kansas City and knows it.
 
 ## Money and taste (established)
 
@@ -116,6 +116,12 @@
 - **He never leaves things to interpretation.** Orders are written with explicit numbers and conditions, and he writes them himself.
 - **He calls families, not portal messages,** when the news matters.
 - **At conferences (case conferences):** he waits until he's asked, then argues the case in full, with the specific evidence. He doesn't grandstand and doesn't flip rooms with one sentence.
+
+### Clinic habits (established)
+
+- **How he introduces himself:** "I'm Dr. Sedlacek, I'm taking over from Dr. ___." Formal title, and he names the doctor they're used to. (Pronunciation still to confirm.)
+- **What he wears:** no tie. White coat most of the time. A nice shirt in a neutral color. Never underdressed.
+- **Driving:** he makes a quality-of-life call. He documents it when he thinks a patient is ignoring the restriction but could manage without driving. He doesn't document it for patients who drive out of pure necessity. (Open: whether he still documents that he *counseled* them. See STATE.)
 
 ### As a teacher (established)
 

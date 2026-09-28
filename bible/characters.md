@@ -41,7 +41,8 @@ Each person gets:
 
 - Trained with Philip at Euclid. She was on a **J-1 visa** and got a **Conrad 30 waiver**, which requires three years of full-time work in an underserved area. She's now in **Charleston, West Virginia.**
 - They kept in touch, so the kinship continued. **She's married, and there's no tension there.**
-- **Open:** her specialty and training overlap with him, where she's from, her husband, when her waiver job started, and how they actually talk (texts, voice memos, calls).
+- **Neurologist, same field as Philip.** (Open: epilepsy specifically, and which years they overlapped.)
+- **Open:** where she's from, her husband, when her waiver job started, and how they actually talk (texts, voice memos, calls).
 - **Perceptiveness:** not set yet.
 
 ### Everyone else
