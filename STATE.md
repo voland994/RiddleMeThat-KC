@@ -19,6 +19,7 @@
   - **Wed Sep 10:** second date with Nadia (she picks and pays; he brings a topic).
   - **Sam and Katie's dinner,** sometime in September.
 - **Two people at once:** Chiara (Sat) and Nadia (Wed). Neither knows about the other, and nobody has asked for exclusivity. Chiara's precommit says she'd want to know if he's sleeping with someone else, but she hasn't said it aloud. Nadia's says she's fine with it if told. **Whatever happens here happens through what Philip says, not through coincidence.** (No convenient run-ins.)
+- **Before the next Chiara or Nadia scene:** add a "What she knows about him" list to their standing precommits (new rule in `bible/principles.md`, "Guardrails against slips"). Chiara's first, before Saturday.
 - **Precommits in force:** `precommits/2025-08-hinge-pool.md` (Megan, Lauren, and others still in queue; Rebecca's app is gone; Danielle's free weekend is Sep 6–7 but they never matched), `2025-09-03-cody-mri.md` (the cannabis over Labor Day; the October ride risk), `2025-09-02-chiara-sequence.md` and `2025-08-30-chiara-dinner.md` (her standing terms), `2025-09-05-nadia.md` (her standing terms), `2025-09-03-sam.md`.
 
 ## His first three weeks (established backstory)
