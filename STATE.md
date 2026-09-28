@@ -4,20 +4,22 @@
 
 ## Where we are
 
-- **Episode 1 is complete** (Session 1): Monday clinic (Aug 25), Monday evening Hinge, the Denise cutaway, a Tue–Thu time skip, and climbing with Chiara at Sequence on Thursday (Aug 28), ending with a kiss. See `sessions/01-2025-08-25.md`.
-- **In-world now:** Thursday night, Aug 28, 2025.
-- **Next up (Episode 2):**
-  - **Fri Aug 29:** Jenna's deadline to call Denise.
-  - **Sat Aug 30:** dinner with Chiara at **Gram & Dun** (Philip's pick; time still to set).
-  - **Wed Sep 3:** Cody's MRI.
-  - **Fri Sep 5:** dinner with Nadia (she picks; sends it Thu Sep 4).
-  - **Sep 8–10:** Cody's ambulatory EEG.
-  - Beer with Sam "next week."
-- **Episode plan (agreed with the player):**
-  - **Episode 2, the social episode:** dinner with Chiara (Sat Aug 30, **Gram & Dun**); a beer with Sam Feldman (Tue or Wed after Labor Day); dinner with Nadia (Fri Sep 5, she picks). One **hospital-adjacent cutaway** (candidates: Shawna, Marcus, Tyler, Kayla). A **summary of the clinic week**, including Jenna's Friday call and Cody's MRI, decided by precommit and medicine, not by the episode's mood.
-  - **Episode 3, back to patients: his first EMU week as attending (established).** Shawna, Marcus, and Eric come into play; he reads Cody's ambulatory EEG (Sep 8–10). Mostly new patients, plus Cody's follow-up once the EEG is read. Gloria's next visit is normally months away unless Philip brings her back sooner. Exact week to set (Sep 8–12 fits the EEG).
-- **Claude's notes for Episode 2:** keep Chiara to at most one spoken read per scene (she had two in Scene 2 of Episode 1). Episode 1 ran warm; let the friction that's already in the precommits land.
-- **Precommits in force:** `precommits/2025-08-hinge-pool.md` (Megan, Lauren, and the rest still in play; Rebecca deletes the app Sep 1; Danielle's free weekend is Sep 6–7), and `precommits/2025-08-25-clinic.md` (Jenna's Friday call, Gloria's next visit).
+- **Episode 1 is complete** (Session 1): see `sessions/01-2025-08-25.md`.
+- **Episode 2 is complete** (Session 2, the social episode): see `sessions/02-2025-08-29.md`.
+  - **Fri Aug 29:** Jenna called Denise: yes to levetiracetam.
+  - **Sat Aug 30:** dinner with Chiara at Gram & Dun. He gave her a real "why Kansas City" (Euclid didn't keep him). They slept together at her place.
+  - **Tue Sep 2:** Jenna's pause decided: they can try once the valproate is off, if the cross-taper is clean. Sequence and Lulu's with Chiara (she paid; she told him about her paper; not tonight, worms at seven).
+  - **Wed Sep 3:** a beer with Sam at Char Bar. Sam's "EEG guy" now. Dinner at Sam and Katie's in September.
+  - **Thu Sep 4:** Cody's MRI is normal (weighted draw). Philip called him. Watch and log for irritability. **Cutaway:** Marcus and the St. Louis remote-EEG hub.
+  - **Fri Sep 5:** first date with Nadia at Corvino. Home, competence, "not verdicts," Riyadh, *Making a Murderer*. Second date Wed Sep 10.
+- **In-world now:** Friday night, Sep 5, 2025, about 9:55 p.m., Walnut Street.
+- **Next up:**
+  - **Sat Sep 6:** Chiara. **Philip picks** the place ("Saturday, you choose again").
+  - **Episode 3: his first EMU week as attending, Sep 8–12 (established).** Shawna, Marcus, and Eric in play. Cody's ambulatory EEG Sep 8–10 (Philip reads it); Cody's nurse check about Sep 8. Marcus may or may not ask him about the hub.
+  - **Wed Sep 10:** second date with Nadia (she picks and pays; he brings a topic).
+  - **Sam and Katie's dinner,** sometime in September.
+- **Two people at once:** Chiara (Sat) and Nadia (Wed). Neither knows about the other, and nobody has asked for exclusivity. Chiara's precommit says she'd want to know if he's sleeping with someone else, but she hasn't said it aloud. Nadia's says she's fine with it if told. **Whatever happens here happens through what Philip says, not through coincidence.** (No convenient run-ins.)
+- **Precommits in force:** `precommits/2025-08-hinge-pool.md` (Megan, Lauren, and others still in queue; Rebecca's app is gone; Danielle's free weekend is Sep 6–7 but they never matched), `2025-09-03-cody-mri.md` (the cannabis over Labor Day; the October ride risk), `2025-09-02-chiara-sequence.md` and `2025-08-30-chiara-dinner.md` (her standing terms), `2025-09-05-nadia.md` (her standing terms), `2025-09-03-sam.md`.
 
 ## His first three weeks (established backstory)
 
@@ -49,11 +51,17 @@
 | Mon Aug 4, 2025 | First day at Blue River | Done (backstory) |
 | Mon Aug 25, 2025 | Play begins (Episode 1) | Done |
 | Thu Aug 28, 2025 | Sequence with Chiara; the kiss | Done |
-| Fri Aug 29, 2025 | Jenna calls Denise (deadline) | Next |
-| Sat Aug 30, 2025 | Dinner with Chiara, Gram & Dun | Next |
-| Wed Sep 3, 2025 | Cody's MRI | Upcoming |
-| Fri Sep 5, 2025 | Dinner with Nadia | Upcoming |
-| Sep 8–10, 2025 | Cody's ambulatory EEG | Upcoming |
+| Fri Aug 29, 2025 | Jenna calls Denise | Done |
+| Sat Aug 30, 2025 | Dinner with Chiara, Gram & Dun | Done |
+| Tue Sep 2, 2025 | Jenna's pause decided; Sequence with Chiara | Done |
+| Wed Sep 3, 2025 | Beer with Sam; Cody's MRI | Done |
+| Fri Sep 5, 2025 | First date with Nadia, Corvino | Done |
+| Sat Sep 6, 2025 | Chiara (Philip picks) | Next |
+| Sep 8–12, 2025 | First EMU week as attending (Episode 3) | Next |
+| Wed Sep 10, 2025 | Second date with Nadia | Upcoming |
+| Sat Sep 13, 2025 | Nadia leaves (back ~Sep 28) | Upcoming |
+| Mon Sep 15, 2025 | Nadia's Riyadh decision due | Upcoming |
+| Sep 8–10, 2025 | Cody's ambulatory EEG | Next |
 | Fri Oct 24, 2025 | Streetcar Main Street extension opens (to the Plaza and UMKC) | Upcoming (real) |
 | Dec 5–9, 2025 | American Epilepsy Society annual meeting, Atlanta | Upcoming (real) |
 | ~2029–2030 | PSLF forgiveness (proposed: payments began in 2019 internship) | Background |
@@ -67,6 +75,10 @@
 - Anything else he brought from Cleveland: friends he still texts, things he misses, things he doesn't.
 
 ## Notes to self (Claude)
+
+- **Session 2 slips to watch for (all caught and retconned):** a mind-reading echo (Chiara "twenty-two" ~ Jenna), a firewall leak (Chiara naming Nadia), two spoken reads the precommit didn't allow (both lifted from Philip's private profile), and a bracket that invented a justification after the fact. Pattern: in warm, fast scenes, characters start "knowing" him. Before any line that characterizes Philip, ask: where did she get that from his outward text?
+- **Precommit gaps:** check the bill, the end of the night, and anything else that's a decision point. The Nadia precommit missed the check.
+- **Intimate scenes (player's register):** frank and adult, carried by dialogue and reaction, not gratuitous.
 
 - **He was passed over.** Six years at Euclid, chief resident, liked by everyone, and not kept on faculty because he didn't publish. They told him late, and his filters (no private practice, a larger metro) did the rest. He turned down a Euclid satellite job in eastern Ohio. This is a wound, not a speech.
 - **KU is two miles away,** and he'd take a job there. Interior only. If it ever opens, precommit the market first. Nobody brings it up unless it's realistic for them to.

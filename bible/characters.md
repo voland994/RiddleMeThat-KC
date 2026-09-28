@@ -154,5 +154,6 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 
 #### Nadia Karimi, 33 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)
 - Architect at a sports-architecture firm. Rice and Harvard. From Tulsa, lives in the River Market. Was in Doha on a site walk the week of Aug 25; working on Arrowhead's World Cup readiness.
-- **With Philip:** matched Aug 25. Dinner **Friday, Sep 5** (she picks the place). In town Sep 3–12.
+- **With Philip:** matched Aug 25. First date **Fri Sep 5 at Corvino** (her pick; his topic, "what makes a place feel like home"). He paid ("professional caution"); she kissed him on Walnut. **Second date Wed Sep 10,** after 7 (she picks and pays, he brings a topic). She's gone Sep 13 to about Sep 28.
+- **Established in play:** parents from Shiraz (her father, a retired petroleum engineer, will say "The Saudis?"); mother a dentist in Tulsa for 35 years; a sister. Wanted to design libraries and social housing. **Offered project architect on a Riyadh 2034 World Cup stadium;** decision due Sep 15; she's told only her sister and Philip. She's the only person who got his Hinge *Making a Murderer* joke.
 - **Voice:** efficient, dry, self-deflating about her own glamour ("FIFA has very strong opinions about bathrooms").
