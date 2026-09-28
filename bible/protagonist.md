@@ -113,7 +113,7 @@
 ## Free time (established)
 
 - **He walks and likes hiking.** He hates car-centric cities.
-- **He climbs.** Bouldering at a gym, about five years now, since residency. **He hasn't found a gym in Kansas City yet** (open).
+- **He climbs.** Bouldering at a gym, about five years now. **He started in Cleveland as "post COVID burnout recovery";** it helped him through about a year. **His Kansas City gym is Sequence** (first visit Aug 28, 2025). Tall, with a long reach; he sent a problem on the new overhang on his second try, with a heel-hook beta from a stranger.
 
 ## How others see him (established)
 

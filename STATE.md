@@ -4,12 +4,16 @@
 
 ## Where we are
 
-- **Session 1 in progress (Episode 1).** Played: Scene 1 (Monday clinic), Scene 2 (Monday evening, Hinge), and the Denise cutaway. See `sessions/01-2025-08-25.md`.
-- **Next up:** Thursday, Aug 28, 7:30 p.m., climbing with Chiara at Sequence. Nadia's reply is pending. Jenna calls Denise by Friday.
-
-- **In-world date: Monday, August 25, 2025.** Philip started at Blue River Neuroscience Institute on **Monday, August 4, 2025.** He is three weeks in.
-- He moved from Cleveland in late July after finishing six years of training at the Euclid Clinic (see `bible/protagonist.md`).
-- **Almost nothing about his Kansas City life exists yet:** where he lives, who he works with, his patients, who he knows, whether he's found a climbing gym, whether he's dating. All of that gets built in play, with the player.
+- **Episode 1 is complete** (Session 1): Monday clinic (Aug 25), Monday evening Hinge, the Denise cutaway, a Tue–Thu time skip, and climbing with Chiara at Sequence on Thursday (Aug 28), ending with a kiss. See `sessions/01-2025-08-25.md`.
+- **In-world now:** Thursday night, Aug 28, 2025.
+- **Next up (Episode 2):**
+  - **Fri Aug 29:** Jenna's deadline to call Denise.
+  - **Sat Aug 30:** dinner with Chiara. **Philip picks the place (no barbecue).**
+  - **Wed Sep 3:** Cody's MRI.
+  - **Fri Sep 5:** dinner with Nadia (she picks; sends it Thu Sep 4).
+  - **Sep 8–10:** Cody's ambulatory EEG.
+  - Beer with Sam "next week."
+- **Precommits in force:** `precommits/2025-08-hinge-pool.md` (Megan, Lauren, and the rest still in play; Rebecca deletes the app Sep 1; Danielle's free weekend is Sep 6–7), and `precommits/2025-08-25-clinic.md` (Jenna's Friday call, Gloria's next visit).
 
 ## His first three weeks (established backstory)
 
@@ -23,7 +27,7 @@
 - Unpacked the apartment in one Saturday.
 - **Hinge:** no dates yet in Kansas City. The player wants someone opposite him soon. The pool is precommitted in `precommits/2025-08-hinge-pool.md`.
 
-## First session: suggested approach (proposed)
+## First session: suggested approach (done; kept for reference)
 
 1. Before playing, settle a few basics with the player, and **challenge vagueness**:
    - Where he lives (neighborhood, apartment or house, walkable or not).
@@ -39,7 +43,13 @@
 | Jun 30, 2025 | Clinical neurophysiology fellowship at Euclid ends | Done (backstory) |
 | Late Jul 2025 | Moves Cleveland → Kansas City | Done (backstory) |
 | Mon Aug 4, 2025 | First day at Blue River | Done (backstory) |
-| **Mon Aug 25, 2025** | **Play begins** | **Next** |
+| Mon Aug 25, 2025 | Play begins (Episode 1) | Done |
+| Thu Aug 28, 2025 | Sequence with Chiara; the kiss | Done |
+| Fri Aug 29, 2025 | Jenna calls Denise (deadline) | Next |
+| Sat Aug 30, 2025 | Dinner with Chiara | Next |
+| Wed Sep 3, 2025 | Cody's MRI | Upcoming |
+| Fri Sep 5, 2025 | Dinner with Nadia | Upcoming |
+| Sep 8–10, 2025 | Cody's ambulatory EEG | Upcoming |
 | Fri Oct 24, 2025 | Streetcar Main Street extension opens (to the Plaza and UMKC) | Upcoming (real) |
 | Dec 5–9, 2025 | American Epilepsy Society annual meeting, Atlanta | Upcoming (real) |
 | ~2029–2030 | PSLF forgiveness (proposed: payments began in 2019 internship) | Background |
