@@ -88,7 +88,7 @@
 
 ## Home and car (established)
 
-- **Lives in the Westport/Midtown area,** about a mile north of the hospital. Exact block and building still open.
+- **Lives in Roanoke,** the quiet side streets just west of Westport, in an old brick apartment building near Roanoke Park. The Westport bars are about five minutes' walk away, and the hospital is about 20 minutes' walk. Residents live around here too.
 - **Car: a 2023 Toyota Camry XLE,** his first "serious" car, bought on a fellow's salary (proposed). He needs a car in Kansas City and knows it.
 
 ## Money and taste (established)
@@ -119,9 +119,9 @@
 
 ### Clinic habits (established)
 
-- **How he introduces himself:** "I'm Dr. Sedlacek, I'm taking over from Dr. ___." Formal title, and he names the doctor they're used to. (Pronunciation still to confirm.)
+- **How he introduces himself:** "I'm Dr. Sedlacek, I'm taking over from Dr. ___." Formal title, and he names the doctor they're used to.
 - **What he wears:** no tie. White coat most of the time. A nice shirt in a neutral color. Never underdressed.
-- **Driving:** he makes a quality-of-life call. He documents it when he thinks a patient is ignoring the restriction but could manage without driving. He doesn't document it for patients who drive out of pure necessity. (Open: whether he still documents that he *counseled* them. See STATE.)
+- **Driving:** he makes a quality-of-life call. He documents it when he thinks a patient is ignoring the restriction but could manage without driving. He doesn't document it for patients who drive out of pure necessity. **But he always documents that he counseled them on the law.** What he leaves out is only the necessity-driver's admission. It's a gray zone, it's quiet, and it still covers him.
 
 ### As a teacher (established)
 

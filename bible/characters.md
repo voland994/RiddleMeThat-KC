@@ -39,11 +39,12 @@ Each person gets:
 
 ### Sana Qureshi: the friend he still texts (established)
 
-- Trained with Philip at Euclid. She was on a **J-1 visa** and got a **Conrad 30 waiver**, which requires three years of full-time work in an underserved area. She's now in **Charleston, West Virginia.**
-- They kept in touch, so the kinship continued. **She's married, and there's no tension there.**
-- **Neurologist, same field as Philip.** (Open: epilepsy specifically, and which years they overlapped.)
-- **Open:** where she's from, her husband, when her waiver job started, and how they actually talk (texts, voice memos, calls).
-- **Perceptiveness:** not set yet.
+- **From Lahore, Pakistan.** Trained with Philip at Euclid on a **J-1 visa.**
+- **An epileptologist.** Getting a **Conrad 30 waiver** meant taking a job in an underserved area instead of going back to Lahore for the J-1's two years at home. The waiver requires three years full-time in an underserved area. She's now in **Charleston, West Virginia,** where she may be one of very few epileptologists for a large region.
+- **Married to an engineer.** They're working toward a green card.
+- **With Philip:** the kinship continued. There's no romantic tension. **Proposed:** they text each other EEG screenshots.
+- **Proposed timeline:** same residency class (2020–2023), one fellowship year (2023–24), and the Charleston job since summer 2024. That would make her a year ahead of him as an attending.
+- **Open:** her husband's work situation (see STATE), how they talk, and her perceptiveness.
 
 ### Everyone else
 
