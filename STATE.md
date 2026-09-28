@@ -13,6 +13,10 @@
   - **Fri Sep 5:** dinner with Nadia (she picks; sends it Thu Sep 4).
   - **Sep 8–10:** Cody's ambulatory EEG.
   - Beer with Sam "next week."
+- **Episode plan (agreed with the player):**
+  - **Episode 2, the social episode:** dinner with Chiara (Sat Aug 30, Philip picks the place, no barbecue); a beer with Sam Feldman (Tue or Wed after Labor Day); dinner with Nadia (Fri Sep 5, she picks). One **hospital-adjacent cutaway** (candidates: Shawna, Marcus, Tyler, Kayla). A **summary of the clinic week**, including Jenna's Friday call and Cody's MRI, decided by precommit and medicine, not by the episode's mood.
+  - **Episode 3, back to patients:** mostly new patients, plus Cody's follow-up once his ambulatory EEG (Sep 8–10) is read. Gloria's next visit is normally months away unless Philip brings her back sooner. **Proposed:** make it his first EMU week as attending (Shawna, Marcus, Eric; he reads Cody's ambulatory EEG).
+- **Claude's notes for Episode 2:** keep Chiara to at most one spoken read per scene (she had two in Scene 2 of Episode 1). Episode 1 ran warm; let the friction that's already in the precommits land.
 - **Precommits in force:** `precommits/2025-08-hinge-pool.md` (Megan, Lauren, and the rest still in play; Rebecca deletes the app Sep 1; Danielle's free weekend is Sep 6–7), and `precommits/2025-08-25-clinic.md` (Jenna's Friday call, Gloria's next visit).
 
 ## His first three weeks (established backstory)
