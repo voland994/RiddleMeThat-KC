@@ -102,6 +102,14 @@
 - **Observation (Claude's reading, not canon until accepted):** he'd silently judge her for the same compromise he confessed to her about himself ("me from five years ago would" call me a hypocrite). He wants her status and would hold how she earns it against her.
 - **Firewall:** nobody knows any of this. Nadia can't detect it from what he's said, which has all been smooth. Anything she ever notices has to come from his outward behavior over time.
 
+### Chiara: what she is to him (established; interior only)
+
+- **Fun, and the feeling of being seen.** Not status. Nadia is someone he'd be *seen with*; Chiara is someone he's *seen by*.
+- **Her two-year exit is a safety feature.** He doesn't see himself long term with her. The end date is part of why it's easy.
+- **Firewall:** nobody knows. Chiara takes him at his outward word.
+- **Guardrail (Claude):** because her appeal to him is being seen, any "being seen" she gives him must come from what she actually observes. See `principles.md`, "Guardrails against slips."
+- **Observation (Claude's reading, not canon until accepted):** both women come with built-in exits (her two years; Nadia's travel). The one who makes him feel seen is also the one most likely, over time, to notice the curation. Nothing staged; it comes out only through what Philip says and does.
+
 ### The ex (established)
 
 - **Anna Lindgren** (name proposed), a doctor in Madison. **Not a neurologist.** Her specialty is otherwise open.
