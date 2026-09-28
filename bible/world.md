@@ -16,6 +16,12 @@
 
 - **Fictional stand-in for the Cleveland Clinic.** A world-class academic center with a very high-volume epilepsy and SEEG program. Philip trained there from 2019 to 2025 and wasn't kept on faculty.
 
+## Medicine across the state line (checked)
+
+- **Driving, Kansas:** six months without a seizure *while awake* for a license. Exceptions with a doctor's verification: seizures only in sleep, a seizure during a supervised medication taper (with the medication restarted), or a very minor seizure. Drivers with seizure disorders file annual medical reports until three years seizure-free. **Doctors aren't required to report,** and good-faith reports are protected from lawsuits.
+- **Driving, Missouri:** typically six months seizure-free, often a conditional license for a year. **Not a mandatory reporting state.**
+- **Medicaid:** Missouri expanded it (voters approved it in 2020, and it took effect in 2021). **Kansas hasn't.** Uninsured patients from the Kansas side have fewer options.
+
 ## Kansas City, Missouri (proposed facts, [verify] where marked)
 
 - **Size:** a city of about half a million, in a metro of over two million that straddles the Missouri–Kansas state line. Kansas City, Kansas, is a separate city across the line.

@@ -88,6 +88,29 @@
 - **Philip's own errors: paused.** Whether he makes ordinary honest mistakes is undecided. Don't precommit or introduce one. Decide in play, with the player, if and when it comes up.
 - **New-attending realism:** he's the new person. He doesn't know the nurses' names yet, the EHR build is different from Euclid's, referral patterns are different, and nobody here knows his reputation. Trust is earned from zero.
 
+## Competence in play (established)
+
+- **The standard of care is automatic.** Anything a well-trained epileptologist does without thinking, Philip does correctly: the right doses, the right workup, the right EEG read, and the standard history questions. The player can write "I adjust her meds appropriately" or "I order the standard workup," and Claude fills in the real version.
+- **Judgment calls belong to the player.** Where real epileptologists would disagree, Claude lays out the options honestly in [brackets], says which way his training would lean, and the player chooses.
+- **Where Euclid shows, he's better than average:** EEG reading, semiology, surgical workups, ICU EEG. Some people notice, quietly.
+- **Where he's realistically weaker (new, not bad):**
+  - **The system:** who to call, which neuropsychologist is good, how prior auths work here, and the state line (Missouri expanded Medicaid in 2021; Kansas hasn't).
+  - **Continuity:** fellows follow patients for a year or two. Hartsock knew hers for 20 years, and Denise knows what no chart says.
+  - **Pace:** he runs late in clinic while he learns to write billable notes in a new build.
+  - **Being the final word:** at Euclid there was always someone above him to sign off.
+- **Uncertainty is real.** A good call can have a bad outcome, and a reasonable call can turn out wrong. **That isn't an error** (a peer would have made the same call). Philip's actual errors, ones a peer would fault, stay paused.
+- **Disagreements are honest.** Sometimes he's right, sometimes Eric or Denise is, and sometimes nobody knows.
+- **Most of it just works** and gets summarized. Friction comes from patients and the system, not from Philip fumbling.
+
+## Blue River compared to Euclid (established facts; how he feels about it is the player's)
+
+- **The cases:** Euclid was the end of the line. Blue River is regional: some drug-resistant referrals, and mostly first seizures, stable refills, spells that aren't epilepsy, pregnancy planning, and seizures after strokes.
+- **Surgery:** a real but much smaller program, with far fewer SEEG cases [verify real volume].
+- **Hours:** fewer than fellowship, with home call. More patients per clinic day and more responsibility per patient. Productivity-based pay after two years.
+- **Support:** much less. Denise and a handful of nurses are most of it.
+- **Money:** roughly four times his fellowship pay.
+- **Standing:** Reinholt and Eric know what "Cleveland-trained" means. Patients don't care.
+
 ## Career and the job market
 
 - **The market gives him what it realistically gives him, no more and no less, and only in response to what he actually does.** If a career thread opens, Claude precommits what's realistically out there before Philip looks.
