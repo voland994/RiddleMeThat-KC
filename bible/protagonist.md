@@ -46,8 +46,18 @@
 ### Passed over (established)
 
 - **Euclid didn't keep him.** Six years there: intern, resident, chief resident, two fellowships. Everyone liked him. Residents loved him as chief. But Euclid's faculty slots go to people who publish, and he hadn't.
+- **They told him late.** He assumed he'd be kept, so he didn't really search. Euclid said no partway through his EEG fellowship year (proposed: fall 2024), when most jobs starting in July 2025 were already filled or deep into interviews.
+- **His filters narrowed it further:** no private practice, and a "larger" metro.
 - **They offered him a job at a Euclid satellite hospital in eastern Ohio.** He turned it down.
-- **Kansas City was the biggest city that called.**
+- **Kansas City was the biggest metro among the offers that fit his filters.**
+- **What his CV actually says (Claude's read, accepted):** a strong clinical hire and a weak research hire. Euclid training in epilepsy, chief resident, two fellowships, and ICU EEG skills in a shortage specialty. No first-author papers, nothing during fellowship. His market was thin because of timing and filters, not because nobody wanted him.
+
+### KU, two miles away (established)
+
+- **The University of Kansas Health System** runs the only other Level 4 epilepsy center in the Kansas City area, at 39th and Rainbow in Kansas City, Kansas, about two miles from Blue River.
+- **KU never offered him anything.** By the time he was looking, their cycle was done (no opening, or it was already filled). He didn't interview there. It wasn't a second rejection.
+- **Interior only: he'd take a KU job if it were offered.** Nobody knows this.
+- **If a KU job ever opens in the story,** Claude precommits what's realistically on offer before he looks. Realistic costs: a possible noncompete radius [check Missouri law on physician noncompetes], and how leaving within two years reads in a small specialty in a mid-size city.
 - How he talks about this, and to whom, is the player's call. Nobody in Kansas City knows unless he tells them.
 
 ## Family (established)
@@ -68,13 +78,29 @@
 - **Stay-at-home moms in his class puzzle him.** He finds it strange how some people in his class, including doctors he knows, have reinvented the stay-at-home mom from first principles and would never call it "trad," so it's fine.
 - **His weakness is lust.** He has a high libido, and desire can tempt him. The strongest pull is being *seen* by someone much more attractive than he feels he is.
 - **In bed:** patient and withholding at first (he makes her wait), gently controlling, slow and deliberate, and he watches her responses closely. Attentive rather than performative. Once he stops waiting, he takes the lead openly and **narrates**: he says what he sees and wants, out loud.
-- **Dating:** uses the apps (Hinge). His profile is sparse, "Physician," no workplace named. In a new city, he'd be looking.
+- **Dating:** uses the apps (Hinge). In a new city, he'd be looking.
+
+### His Hinge profile (established Aug 25, 2025)
+
+- **Photos:** (1) bouldering; (2) Valencia; (3) by the river in Wisconsin; (4) a 3 a.m. night-shift photo in Cleveland with Sana and a male co-resident (name open), doing something dumb with a vending machine; (5) at the Nelson-Atkins shuttlecocks, taken by a tourist, hands in pockets, slightly off-center; (6) in a coffee shop window on Broadway in Westport, book face-down.
+- **Prompts:**
+  - "My most irrational fear..." → "Being asked my opinion of a documentary I've never seen." (A private *Making a Murderer* joke. With his hometown blank, nobody will get it.)
+  - "Typical Sunday..." → "Long walk. Coffee. Reading the same page twice because the people at the next table are more interesting."
+  - "The one thing I'd love to know about you is..." → "What you're good at that nobody asks you about."
+- **Basics:** Physician (no workplace) · UW–Madison · hometown blank · politics liberal · religion blank · open to children · drinks socially.
+- **Considered and rejected:** a photosensitivity joke ("I wish we could cause seizures with some lights"). He went safe.
 
 ### The ex (established)
 
 - **Anna Lindgren** (name proposed), a doctor in Madison. **Not a neurologist.** Her specialty is otherwise open.
 - **Together through the end of undergrad and all of med school.**
 - **She wanted to stay close to her family.** When he matched in Cleveland, he told her that even after training he wasn't coming back to Wisconsin. She was the one who broke up, but he ended it.
+
+## Home and car (established)
+
+- **Lives in Roanoke,** the quiet side streets just west of Westport, in an old brick apartment building near Roanoke Park. The Westport bars are about five minutes' walk away, and the hospital is about 20 minutes' walk. Residents live around here too.
+- **The apartment is mostly unpacked.** He set aside one Saturday and did it. He's not sentimental about it.
+- **Car: a 2023 Toyota Camry XLE,** his first "serious" car, bought on a fellow's salary (proposed). He needs a car in Kansas City and knows it.
 
 ## Money and taste (established)
 
@@ -87,7 +113,7 @@
 ## Free time (established)
 
 - **He walks and likes hiking.** He hates car-centric cities.
-- **He climbs.** Bouldering at a gym, about five years now, since residency. **He hasn't found a gym in Kansas City yet** (open).
+- **He climbs.** Bouldering at a gym, about five years now. **He started in Cleveland as "post COVID burnout recovery";** it helped him through about a year. **His Kansas City gym is Sequence** (first visit Aug 28, 2025). Tall, with a long reach; he sent a problem on the new overhang on his second try, with a heel-hook beta from a stranger.
 
 ## How others see him (established)
 
@@ -101,6 +127,12 @@
 - **He never leaves things to interpretation.** Orders are written with explicit numbers and conditions, and he writes them himself.
 - **He calls families, not portal messages,** when the news matters.
 - **At conferences (case conferences):** he waits until he's asked, then argues the case in full, with the specific evidence. He doesn't grandstand and doesn't flip rooms with one sentence.
+
+### Clinic habits (established)
+
+- **How he introduces himself:** "I'm Dr. Sedlacek, I'm taking over from Dr. ___." Formal title, and he names the doctor they're used to.
+- **What he wears:** no tie. White coat most of the time. A nice shirt in a neutral color. Never underdressed.
+- **Driving:** he makes a quality-of-life call. He documents it when he thinks a patient is ignoring the restriction but could manage without driving. He doesn't document it for patients who drive out of pure necessity. **But he always documents that he counseled them on the law.** What he leaves out is only the necessity-driver's admission. It's a gray zone, it's quiet, and it still covers him.
 
 ### As a teacher (established)
 
