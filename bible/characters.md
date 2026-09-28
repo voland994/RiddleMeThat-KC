@@ -99,6 +99,8 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Perceptiveness:** medium. Reads people, keeps quiet.
 - **Voice:** quiet and precise.
 
+- **Established (cutaway, Sep 4):** Meramec plans a remote overnight cEEG hub in St. Louis for Q1 2026 ("no reductions in force anticipated at this time"). His overnight techs are **Darnell** and **Rosa**. Lives in Grandview with his wife **Loretta**; has a grandson. Remembers that Philip called down twice during reading week before signing reports. Assumes a Euclid-trained doctor thinks hubs are normal. Hasn't decided whether to ask him for help.
+
 #### Dr. Tyler Brandt, PGY-3: neurology resident
 - From Wichita, KU medical school, lives in Westport.
 - **Wants:** a stroke fellowship. Epilepsy is a rotation to get through.
