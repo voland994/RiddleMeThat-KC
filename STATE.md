@@ -13,11 +13,32 @@
   - **Thu Sep 4:** Cody's MRI is normal (weighted draw). Philip called him. Watch and log for irritability. **Cutaway:** Marcus and the St. Louis remote-EEG hub.
   - **Fri Sep 5:** first date with Nadia at Corvino. Home, competence, "not verdicts," Riyadh, *Making a Murderer*. Second date Wed Sep 10.
 - **In-world now:** Friday night, Sep 5, 2025, about 9:55 p.m., Walnut Street.
-- **Next up:**
-  - **Sat Sep 6:** Chiara. **Philip picks** the place ("Saturday, you choose again").
-  - **Episode 3: his first EMU week as attending, Sep 8–12 (established).** Shawna, Marcus, and Eric in play. Cody's ambulatory EEG Sep 8–10 (Philip reads it); Cody's nurse check about Sep 8. Marcus may or may not ask him about the hub.
-  - **Wed Sep 10:** second date with Nadia (she picks and pays; he brings a topic).
-  - **Sam and Katie's dinner,** sometime in September.
+- **Next up: Episode 3, his first EMU week, split across two chats (agreed with the player).**
+
+  **E03A: Sat Sep 6 to Tue Sep 9 ("the week starts")**
+  | # | When | Scene | Mode |
+  |---|---|---|---|
+  | 0 | Sat Sep 6, evening | Chiara, Philip's pick of place. The last easy night. | Short live |
+  | 1 | Sun Sep 7 | Lisa's weekly call (first time played). Settle their call rhythm and her visit. | Short live |
+  | 2 | Mon Sep 8, 7 a.m. | First EMU rounds: the census, Shawna, his taper and safety orders. Eric stops by about the presurgical patient. | Live (main) |
+  | — | Mon afternoon | Cody's home EEG goes on. Nurse-line check (irritability; cannabis only if asked). | Summary |
+  | 3 | Tue Sep 9 | First events: a typical seizure on the presurgical patient; a captured event on the suspected functional patient. | Live |
+  | — | Tue evening | Sam's first "EEG guy" ICU call, by phone. E03A ends. | Summary |
+
+  **E03B: Wed Sep 10 to Fri Sep 12 ("the answers")**
+  | # | When | Scene | Mode |
+  |---|---|---|---|
+  | 4 | Wed Sep 10, morning | Delivering the functional seizures diagnosis. | Live |
+  | 5 | Wed Sep 10, evening | Nadia's second date (she picks and pays; he brings a topic; she leaves the 13th). | Live |
+  | — | Thursday | Philip reads Cody's home EEG (whether and how he calls Cody is the player's). Presurgical patient reaches three seizures. Marcus does or doesn't approach him about the hub. | Summary with bracketed decisions |
+  | 6 | Friday | The no-answer discharge: five days, no event. Discharge, or fight insurance for more days. | Short live or summary |
+  | — | Fri evening | **Cutaway: Shawna,** the unit's verdict on his first week. | Cutaway |
+  | — | Close | Hooks: surgery conference (about Thu Sep 18), Nadia leaves Sep 13, Riyadh Sep 15, Sam and Katie's dinner. | Summary |
+
+  **EMU census (agreed):** (1) a presurgical (Phase I) workup: temporal lobe epilepsy, MRI maybe showing hippocampal sclerosis, goal three typical seizures, Eric eager (SEEG). Laterality is Philip's read to defend. (2) Suspected functional (dissociative) seizures; the diagnosis may be rejected. (3) Medicine reduced, no event in five days. (4) Optional: an older patient with spells that turn out ordinary.
+
+  **Precommits:** start of **E03A:** Chiara's Saturday (with an agent-made "knows" list), the whole EMU census with each patient's week, Shawna, Lisa. Start of **E03B:** Nadia's Wednesday (with "knows" list and her Riyadh decision), the weighted draw for Cody's home EEG, Marcus's decision.
+  **Fact check (Sonnet agent) before E03A:** EMU realism (taper practice, typical length of stay, insurance for extra days, rescue medication orders).
 - **Two people at once:** Chiara (Sat) and Nadia (Wed). Neither knows about the other, and nobody has asked for exclusivity. Chiara's precommit says she'd want to know if he's sleeping with someone else, but she hasn't said it aloud. Nadia's says she's fine with it if told. **Whatever happens here happens through what Philip says, not through coincidence.** (No convenient run-ins.)
 - **Before the next Chiara or Nadia scene:** add a "What she knows about him" list to their standing precommits (new rule in `bible/principles.md`, "Guardrails against slips"). Chiara's first, before Saturday.
 - **Before the Sep 10 date with Nadia:** precommit her Riyadh decision (due Sep 15). Base it on her own weighing, with any conditions triggered only by Philip's outward words on Wednesday. His interior wish that she take it (see `protagonist.md`) must not tilt it.
