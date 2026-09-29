@@ -18,7 +18,10 @@
   - **Live (planned):** (1) **Chiara, Sat Sep 13, her pick,** hidden in her precommit ("You suffer. 🥔"); (2) **the surgery conference, Thu Sep 18,** with Philip presenting Kristen; (3) **dinner at Sam and Katie's,** one weekend. Nadia's return (~Sep 28) may close it as a hook.
   - **Batched summaries with decision sheets:** Kristen's discharge, fMRI (Mon 15) and PET, slides; clinic minisodes (mostly routine; Jenna's cross-over follow-up is due); Lisa's calls (the ticket, the hotel link, Jan's job due Oct 1); Cody's video visit (Tue 23); Nadia's one photo text (Wed 17).
   - **Sam and Katie's dinner (player's note):** two dates is "I've been seeing someone, it's early." Nobody treats Nadia as a life partner. Before writing it, have an agent check what Sam actually knows (about Nadia, and whether Chiara was ever mentioned).
-  - **Cutaway:** to be decided with the player. Candidates: Rob and Kristen at home (Claude's lean), Nadia in Doha with her father, Eric before conference, Chiara after Saturday.
+  - **Cutaway (decided with the player): Nadia calls Leila, late at night in her Doha hotel, about Sep 20–21.** It comes a few days after she called her father about Riyadh. It covers her day (heat, the site, what she can't control) and her private life (the eggs, the library competition). **Leila asks about "the neurologist."**
+    - **Rules:** everything Nadia says about Philip traces to what he said or did in front of her. Her read can be half right (e.g., she might think he's made peace with Kansas City as "a transfer," though he also said he "almost didn't come"). Philip learns none of it unless it reaches him in the story.
+    - **Before writing it, precommit:** her father's reaction so far (silent since "The Saudis?", and whether the article has come), what Leila pushes on, and Nadia's mood.
+    - **Write it at its place in the timeline,** since what she tells Leila depends on whether Philip has texted her by then.
   - **Precommits to write before E04 play:** Chiara's Saturday (a fresh agent "knows" list), the conference (PET and fMRI by draw where relevant; who's in the room), Sam and Katie's dinner, clinic minisodes, and Lisa.
 - **Two people, now both sexual:** Philip slept with Chiara (Aug 30, Sep 6) and Nadia (Sep 10). Neither knows about the other. Chiara's standing term (she'd want to know if he's sleeping with someone else) **has never been said aloud to him**, and she won't raise the Friday question again. Nadia didn't ask and is fine if told. Nothing comes out by coincidence.
 - **Precommits in force:** `2025-09-10-nadia.md` (her texts while away), `2025-09-10-e03b.md` (Amber, Cody, Marcus, Shawna going forward), `2025-09-08-emu-week.md` (Kristen's laterality is still undecided until SEEG is precommitted), `2025-09-06-chiara-saturday.md` and `2025-09-07-lisa.md` (standing terms), `2025-08-hinge-pool.md`, `2025-09-03-cody-mri.md`, `2025-09-02-chiara-sequence.md`, `2025-08-30-chiara-dinner.md`, `2025-09-05-nadia.md`, `2025-09-03-sam.md`.
@@ -80,7 +83,6 @@
 
 ## Waiting on the player
 
-- **E04's cutaway:** who (to discuss).
 - **Kristen's weekend:** who discharges her Saturday (Philip rounds, or the weekend attending)?
 
 - **Brad:** which academic center (he does MS; they text a couple of times a year).
