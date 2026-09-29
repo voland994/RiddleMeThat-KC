@@ -46,6 +46,10 @@
 - **Not hour by hour.** Play live scenes for moments where his voice, his mask, or a real decision matters. Everything in between gets summarized or skipped.
 - **Episodes.** Each session is roughly one episode: two to four played scenes, with summaries or time skips between them.
 - **The academic year is the season.** Residents and fellows turn over in July. The American Epilepsy Society's annual meeting is in early December. Everyone's own storylines move on that clock whether Philip is watching or not.
+- **Episode span (established after E03B):** about **two weeks per episode,** anchored to events rather than the calendar. **Two to four live scenes,** only for hinges (a relationship moment, a real clinical decision, somewhere his mask matters).
+- **Batched summaries and decision sheets (established after E03B):** everything between live scenes goes into one summary block that ends with a short list of what needs Philip's call. The player answers them together. **Summaries report only Philip's decisions as the player gave them.** If a summary needs him to say something specific, it goes on the decision sheet instead of being invented.
+- **Precommits cover the whole span** of an episode, so other characters' lives move on without Claude stopping to ask.
+- **Clinic minisodes (established):** a few lines each. Most cases are ordinary (refills, driving, paperwork, a disagreeing family), not mysteries.
 - **Cases run on real timelines.** An epilepsy surgery workup takes weeks to months, so a patient can come back across several episodes.
 - **Both lives.** Scenes aren't only at the hospital. There's the apartment, the city, a gym, calls with his mom, dates, and walks.
 

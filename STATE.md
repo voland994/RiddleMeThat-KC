@@ -14,18 +14,12 @@
   - **Nadia, second date** (Le Fou Frog, possible worlds): she's taking Riyadh; they slept together at her loft; she left Sat Sep 13.
   - **Shawna cutaway:** a good verdict built from his orders; she plans to ask him to sign her 1:4 staffing letter in October (proposed).
 - **In-world now:** Friday night, Sep 12, 2025, after 7 p.m. Kristen is overnight on the monitor on restarted meds.
-- **Next up: Episode 4.** Opening with Chiara on Saturday is agreed; **the rest of the shape is to be worked out with the player.** Draft:
-
-  | # | When | Scene | Mode |
-  |---|---|---|---|
-  | 1 | Sat Sep 13 | **Chiara, her pick** ("You suffer. 🥔"). The first time he sees her since sleeping with Nadia. | Live |
-  | — | Sat morning | Kristen's discharge (who rounds on the weekend is open) | Summary |
-  | — | Mon Sep 15 | Kristen's fMRI; Nadia's Riyadh deadline (already decided) | Summary |
-  | — | Tue Sep 16 | Conference slides due | Summary |
-  | 2 | Thu Sep 18 | **Surgery conference: Philip presents Kristen** (Eric pushes depths; Luis nervous) | Live |
-  | — | Anytime | Sam and Katie's dinner; Lisa's ticket and hotel link | As needed |
-
-  **Precommits to write before E04 play:** Chiara's Saturday (her pick of plan, what she's been doing, a fresh agent-made "knows" list; **whatever happens about Nadia happens only through what Philip says**); the surgery conference (who's in the room, each person's position, what the conference decides under different presentations; PET and fMRI results by draw where relevant).
+- **Next up: Episode 4, Sat Sep 13 to about Sun Sep 28** (agreed with the player; the two-week format, see `principles.md`, "Pacing").
+  - **Live (planned):** (1) **Chiara, Sat Sep 13, her pick,** hidden in her precommit ("You suffer. 🥔"); (2) **the surgery conference, Thu Sep 18,** with Philip presenting Kristen; (3) **dinner at Sam and Katie's,** one weekend. Nadia's return (~Sep 28) may close it as a hook.
+  - **Batched summaries with decision sheets:** Kristen's discharge, fMRI (Mon 15) and PET, slides; clinic minisodes (mostly routine; Jenna's cross-over follow-up is due); Lisa's calls (the ticket, the hotel link, Jan's job due Oct 1); Cody's video visit (Tue 23); Nadia's one photo text (Wed 17).
+  - **Sam and Katie's dinner (player's note):** two dates is "I've been seeing someone, it's early." Nobody treats Nadia as a life partner. Before writing it, have an agent check what Sam actually knows (about Nadia, and whether Chiara was ever mentioned).
+  - **Cutaway:** to be decided with the player. Candidates: Rob and Kristen at home (Claude's lean), Nadia in Doha with her father, Eric before conference, Chiara after Saturday.
+  - **Precommits to write before E04 play:** Chiara's Saturday (a fresh agent "knows" list), the conference (PET and fMRI by draw where relevant; who's in the room), Sam and Katie's dinner, clinic minisodes, and Lisa.
 - **Two people, now both sexual:** Philip slept with Chiara (Aug 30, Sep 6) and Nadia (Sep 10). Neither knows about the other. Chiara's standing term (she'd want to know if he's sleeping with someone else) **has never been said aloud to him**, and she won't raise the Friday question again. Nadia didn't ask and is fine if told. Nothing comes out by coincidence.
 - **Precommits in force:** `2025-09-10-nadia.md` (her texts while away), `2025-09-10-e03b.md` (Amber, Cody, Marcus, Shawna going forward), `2025-09-08-emu-week.md` (Kristen's laterality is still undecided until SEEG is precommitted), `2025-09-06-chiara-saturday.md` and `2025-09-07-lisa.md` (standing terms), `2025-08-hinge-pool.md`, `2025-09-03-cody-mri.md`, `2025-09-02-chiara-sequence.md`, `2025-08-30-chiara-dinner.md`, `2025-09-05-nadia.md`, `2025-09-03-sam.md`.
 
@@ -86,7 +80,7 @@
 
 ## Waiting on the player
 
-- **E04's shape:** the player wants to plan it together before any precommits are written. Chiara on Saturday is agreed as the opening.
+- **E04's cutaway:** who (to discuss).
 - **Kristen's weekend:** who discharges her Saturday (Philip rounds, or the weekend attending)?
 
 - **Brad:** which academic center (he does MS; they text a couple of times a year).
