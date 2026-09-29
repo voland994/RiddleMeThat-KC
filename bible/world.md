@@ -42,4 +42,4 @@
 - **Corvino Supper Club** (real) announced in Dec 2025 that it would close Jan 1, 2026. It's open throughout 2025 in-world.
 - **Sep 10, 2025 (real):** the Royals won 4–3 at Cleveland. Sunset about 7:37 p.m. Weather not verified.
 - **Functional seizure care in KC (Sep 2026 search):** no dedicated adult FND program found at KU, Saint Luke's, or elsewhere; "functional neurology" chiropractic clinics are not FND care. Standard handouts are neurosymptoms.org and FND Hope. In the story, Blue River's **Dr. Ruth Okafor** (fictional) takes these patients.
-- **William Chrisman High School** (real, Independence): Shawna's son marches in its band (proposed).
+- **William Chrisman High School** (real, Independence): Shawna's son marches in its band.

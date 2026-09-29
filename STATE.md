@@ -14,7 +14,7 @@
   - **Nadia, second date** (Le Fou Frog, possible worlds): she's taking Riyadh; they slept together at her loft; she left Sat Sep 13.
   - **Shawna cutaway:** a good verdict built from his orders; she plans to ask him to sign her 1:4 staffing letter in October (proposed).
 - **In-world now:** Friday night, Sep 12, 2025, after 7 p.m. Kristen is overnight on the monitor on restarted meds.
-- **Next up: Episode 4.** Proposed opening:
+- **Next up: Episode 4.** Opening with Chiara on Saturday is agreed; **the rest of the shape is to be worked out with the player.** Draft:
 
   | # | When | Scene | Mode |
   |---|---|---|---|
@@ -86,8 +86,7 @@
 
 ## Waiting on the player
 
-- **Merge E03B into `main`?** (Needs the player's OK.)
-- **Shawna's 1:4 letter hook** (proposed) and the new proposed names (Okafor, Talia, Pham, Rick, Manny, Leila, Caleb): accept or change.
+- **E04's shape:** the player wants to plan it together before any precommits are written. Chiara on Saturday is agreed as the opening.
 - **Kristen's weekend:** who discharges her Saturday (Philip rounds, or the weekend attending)?
 
 - **Brad:** which academic center (he does MS; they text a couple of times a year).
