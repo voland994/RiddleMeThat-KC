@@ -82,7 +82,7 @@
 
 ## Waiting on the player
 
-- **Brad** (the co-resident in the Hinge photo): whether Philip still talks to him, and where he is now.
+- **Brad:** which academic center (he does MS; they text a couple of times a year).
 - Anything else he brought from Cleveland: friends he still texts, things he misses, things he doesn't.
 
 ## Notes to self (Claude)
