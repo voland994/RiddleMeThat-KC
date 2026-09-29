@@ -150,6 +150,14 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Her place:** a small 1960s beige-brick walk-up a few blocks south of Brush Creek, near the Plaza and Stowers.
 - **Offstage (precommit, not yet known to Philip):** a paper in major revision; her PI offered her a staff job and she said no (that part she told him).
 - **Perceptiveness:** medium-high. She says what she thinks, bluntly. Already said "I see you" (Aug 25) and called his "why Kansas City" answer the conference-dinner version, "accepted for now."
+- **Look (established; reference image `bible/refs/chiara.webp`):**
+  - **Height and build:** 5'2" (157 cm), about 110 lb. Small and wiry, lean but not skinny. A climber's back and shoulders (defined deltoids and lats), sinewy forearms with visible veins, a small chest, narrow hips, lean cyclist's legs.
+  - **Hands:** small and strong, slightly thickened finger joints, callused palms and fingertips, usually a healing split somewhere, chalk in the creases, short blunt unpainted nails.
+  - **Face:** broad cheekbones, a strong, slightly aquiline nose with a high bridge, **warm brown eyes**, heavy dark mobile eyebrows, a thin white scar through the outer left eyebrow (a bouldering fall), dense freckles across the nose and upper cheeks, faint laugh lines already, a wide expressive mouth, a soft rounded chin. A slightly crooked upper left canine when she smiles. No makeup.
+  - **Hair:** thick, wavy, dark chestnut, sun-lightened at the ends, just past her shoulder blades. Usually in a messy high knot with a yellow pencil through it; loose on nights out.
+  - **Body details:** a tank-top tan line; bruises on her shins; **a small tattoo on her lower left leg, near the ankle. What it is hasn't been established; Philip hasn't asked.**
+  - **Ears:** one small silver hoop, one ear only.
+  - **Style:** climbing clothes (faded tank, olive pants rolled to mid-calf, a worn red chalk bag); out, linen trousers, a plain sleeveless top, flat sandals. Nothing new-looking.
 - **Voice:** short direct lines, rounder vowels in person, Italian bursts ("*Ma dai*," "*Sì!*"), mock-solemn humor.
 
 #### Nadia Karimi, 33 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)
