@@ -88,6 +88,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Philip, to him:** a useful pair of hands. Possibly a future rival, which Eric hasn't thought about.
 - **Perceptiveness:** low to medium. Too busy. Takes people at face value.
 - **Voice:** fast, excited about technology, full of jargon.
+- **Established in play (Sep 8–9):** was EMU attending the week before Philip. Wants Kristen Doyle on the Sep 18 conference and leans SEEG (bilateral depths). Took Philip's pushback well ("You're going to be annoying at these. Good. We need that"). Concurred on Amber's functional seizures diagnosis from a parking lot. Wears an old Mayo lanyard.
 
 #### Shawna Pruitt, RN, 38: EMU charge nurse
 - Ten years on the unit. Grew up in Independence, Missouri. Community college, then a nursing degree.
@@ -95,6 +96,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Philip, to her:** judged entirely by his orders. His explicit orders quietly earn points.
 - **Perceptiveness:** sharp about competence, uninterested in feelings. Will say out loud when an order is bad.
 - **Voice:** blunt and funny. Nothing like Denise.
+- **Established in play (Sep 8):** "Welcome to the zoo." Sticky notes on monitors. Pushed him on the 2 mg lorazepam vs. the Meramec pathway and on Amber's no-answer case; satisfied with his fixes ("Someone wrote numbers. I could cry"). Working on a 1:4 overnight ratio proposal for the safety committee.
 
 #### Marcus Webb, 52: lead EEG technologist
 - 25 years in the job. Knows EEG artifacts better than most neurologists.
@@ -114,6 +116,9 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 
 #### Others
 - Two more epileptologists, unnamed until needed.
+- **Brooke, RN** (proposed name): EMU day nurse. Fast, calm, did textbook ictal testing on Amber.
+- **Tasha, RN** (proposed name): Denise's nurse line.
+- **Luis** (proposed name): the epilepsy neurosurgeon. Mentioned only.
 
 ### The friend from orientation (established; details proposed)
 
@@ -142,6 +147,13 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Harold Beck, 64,** post-stroke epilepsy, stable; wife **Carol** does the talking and keeps score of waiting times.
 - **Tom Keller, 52,** stable on lamotrigine.
 - **Brett Sorensen, 19,** convulsive syncope, not epilepsy. Discharged from follow-up.
+
+### EMU patients, week of Sep 8 (outward facts only; hidden facts live in `precommits/2025-09-08-emu-week.md`)
+
+- **Kristen Doyle, 38.** Blue Springs math teacher, right-handed, husband **Rob** (UPS). Phase I presurgical (Eric's referral). Likely left mesial temporal epilepsy; "possible left MTS"; outside EEG bitemporal ~70/30; two lifetime tonic-clonics (last 2021). Lamotrigine + lacosamide. "I teach. I need my words." **Perceptiveness:** medium; composed, organized, asks direct questions.
+- **Amber Kowalski, 25.** Pharmacy tech (Raytown), lives with her mother **Diane** (school bus driver, 31 years; keeps a green spiral notebook of every event). Functional seizures, diagnosed Sep 9. Once intubated at Centerpoint (April 2025). An ED nurse once said "for attention." Gets a "far-away feeling" before events. **Perceptiveness:** medium; guarded, watches faces. Diane: high about behavior, says it plainly.
+- **Keith Barlow, 47.** Machinist (Excelsior Springs), wife **Sherry** (dental office). Focal epilepsy, MRI normal. Wants to go home; Sherry wants him to stay. **Perceptiveness:** low.
+- **Ernest "Ernie" Lyle, 79.** Retired postal carrier (Parkville), widowed; daughter **Donna** (paralegal). Four months of "spells." Apologizes to every nurse. **Perceptiveness:** low; Donna's is medium and anxious.
 
 ### Outside work
 
