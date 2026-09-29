@@ -15,6 +15,10 @@ Each person gets:
 - **She plans to visit Kansas City.** (When, and whether Dale comes, is open.)
 - **Her own life (proposed):** she has her own friends and routines, and her life doesn't revolve around her son. Possibly a serious birder (the Christmas Bird Count at Woodland Dunes in Two Rivers, a life list past 200). Philip knows she "watches birds" and doesn't know it's serious.
 - **Perceptiveness:** knows his voice better than anyone, but reads it through her own worries. Says it rarely, and sideways.
+- **Established in play (Sep 7, 2025):** administrative coordinator at the Manitowoc County offices for 11 years. Her supervisor **Jan** (parrot calendar) retires in December and told her to apply for the job; applications are due Oct 1. Philip said take it. She hasn't decided. A coworker, **Carol**, always wants deer-season week off.
+- **Visit:** Thu Oct 16 to Sun Oct 19, 2025, with Dale, flying (Philip buys hers; Dale buys his own). A hotel near the Plaza.
+- **What she knows:** the softened Euclid story (no spot in Cleveland; an eastern Ohio satellite; KC was the better job), and that Philip has "met someone" (no details).
+- **Call rhythm (player):** Philip calls at least once a week, often twice, and has for years.
 - **Writing note:** go easy on Wisconsin signifiers (Packers, Culver's, "hon," "for Pete's sake"). A few are texture; stacked, they turn her into a type.
 
 ### Dale Hintz, early 60s: Lisa's partner of about seven years (established)
@@ -158,6 +162,7 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
   - **Body details:** a tank-top tan line; bruises on her shins; **a small tattoo on her lower left leg, near the ankle. What it is hasn't been established; Philip hasn't asked.**
   - **Ears:** one small silver hoop, one ear only.
   - **Style:** climbing clothes (faded tank, olive pants rolled to mid-calf, a worn red chalk bag); out, linen trousers, a plain sleeveless top, flat sandals. Nothing new-looking.
+- **Established in play (Sep 6, 2025):** sent her pinch project ("the potato") at Sequence; Philip sent it second try with her beta. First time at his apartment. Best friend **Giulia** (Bologna) plans to visit in the spring. Plays *briscola* (Uncle Franco cheats). Knows Philip lives in Roanoke and has a friend Sam. Asked once about his Friday "plans"; he said "Good yeah."
 - **Voice:** short direct lines, rounder vowels in person, Italian bursts ("*Ma dai*," "*Sì!*"), mock-solemn humor.
 
 #### Nadia Karimi, 33 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)
