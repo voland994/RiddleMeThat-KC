@@ -82,7 +82,7 @@
 
 ### His Hinge profile (established Aug 25, 2025)
 
-- **Photos:** (1) bouldering; (2) Valencia; (3) by the river in Wisconsin; (4) a 3 a.m. night-shift photo in Cleveland with Sana and a male co-resident (name open), doing something dumb with a vending machine; (5) at the Nelson-Atkins shuttlecocks, taken by a tourist, hands in pockets, slightly off-center; (6) in a coffee shop window on Broadway in Westport, book face-down.
+- **Photos:** (1) bouldering; (2) Valencia; (3) by the river in Wisconsin; (4) a 3 a.m. night-shift photo in Cleveland with Sana and **Brad**, a co-resident who went into neuroimmunology, doing something dumb with a vending machine; (5) at the Nelson-Atkins shuttlecocks, taken by a tourist, hands in pockets, slightly off-center; (6) in a coffee shop window on Broadway in Westport, book face-down.
 - **Prompts:**
   - "My most irrational fear..." → "Being asked my opinion of a documentary I've never seen." (A private *Making a Murderer* joke. With his hometown blank, nobody will get it.)
   - "Typical Sunday..." → "Long walk. Coffee. Reading the same page twice because the people at the next table are more interesting."

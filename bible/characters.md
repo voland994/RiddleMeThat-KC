@@ -51,6 +51,11 @@ Each person gets:
 - **Proposed timeline:** same residency class (2020–2023), one fellowship year (2023–24), and the Charleston job since summer 2024. That would make her a year ahead of him as an attending.
 - **Open:** how they talk, and her perceptiveness.
 
+### Brad: co-resident (established)
+
+- A Euclid neurology co-resident who trained in **neuroimmunology.** In Philip's 3 a.m. vending-machine Hinge photo with Sana.
+- **Open:** his surname, where he is now, and whether Philip still talks to him.
+
 ### Everyone else
 
 - His training cohort, co-residents, fellows, and attendings at Euclid exist but are **unnamed.** Build them only as the story needs them: a friend he still texts, a mentor who wrote his letters, whoever decided not to keep him.
