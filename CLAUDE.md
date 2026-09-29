@@ -38,6 +38,17 @@ This repo is a collaborative fiction and roleplay project. There is no code. The
 - Each chat works on its own assigned branch. At the end of a session, open a pull request from that branch into `main` and merge it, **but only with the player's OK.**
 - If `main` has moved since the chat started, merge `main` into the working branch before opening the pull request.
 
+## Subagents (established)
+
+Use subagents (the Agent tool, **Sonnet** model) for work that shouldn't fill the main chat's context. Only their final report comes back.
+
+- **Fact checks and searches:** real places, dates, sports results, medicine (doses, guidelines, study figures), and anything marked [verify]. Ask for a short answer with sources.
+- **Lookups in long files:** for example, "has Philip ever told anyone where he lives?" across the session logs.
+- **Continuity audits:** the calendar, who knows what, and contradictions between the logs and the bible.
+- **"What she knows about him" lists for precommits.** The agent derives the list **only from what Philip said or did in front of that character** (plus anything that reached them in the story, such as their own cutaways). **Tell it not to read `bible/protagonist.md` or any "Inside" section,** so the list can't be contaminated by his private file. Claude compares it against its own draft; anything only in Claude's version is a likely slip.
+
+**Not for subagents:** writing precommits (Claude must hold them to play the character), playing scenes, and replacing the full read of `principles.md` and `protagonist.md`.
+
 ## Bookkeeping
 
 - After each scene or natural break, update the session log (what happened, key lines, an "Inside" section for his thoughts, and open threads) plus any bible files that changed.
