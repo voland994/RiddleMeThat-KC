@@ -28,7 +28,7 @@
   **Precommits for E03B:** still in force: `precommits/2025-09-08-emu-week.md` (all four patients' weeks, **including the timeline shift from Kristen's slow taper**; don't spoil it to the player). **To write at the start of E03B:** Nadia's Wednesday (with an agent-made "knows" list, and her Riyadh decision; his interior wish must not tilt it), the weighted draw for Cody's home EEG, Marcus's decision, and the Shawna cutaway's inputs (her verdict must come only from his orders and what happened on her unit).
 - **Two people at once:** Chiara (Saturday) and Nadia (Wednesday). Neither knows about the other. Chiara asked about his Friday once and got "Good yeah"; she won't ask again. Her standing term (she'd want to know if he's sleeping with someone else) still hasn't been said aloud. Nadia's precommit says she's fine with it if told. **Whatever happens here happens through what Philip says, not through coincidence.**
 - **Precommits in force:** `2025-09-08-emu-week.md`, `2025-09-06-chiara-saturday.md` and `2025-09-07-lisa.md` (standing terms), `2025-08-hinge-pool.md`, `2025-09-03-cody-mri.md`, `2025-09-02-chiara-sequence.md`, `2025-08-30-chiara-dinner.md`, `2025-09-05-nadia.md`, `2025-09-03-sam.md`.
-- **Open questions for the player:** (1) retcon Chiara's "I can hear it" (a soft read her precommit didn't license) or keep it; (2) contest or accept the Amber delivery ruling (see the log's precommit check); (3) the Cleveland co-resident's name in his Hinge photo.
+- **Resolved by the player after E03A:** Chiara's "I can hear it" stays (kept, not retconned). The Amber delivery ruling is accepted (adequate; ambivalent; second opinion). The Cleveland co-resident in the Hinge photo is **Brad** (trained in neuroimmunology).
 
 ## His first three weeks (established backstory)
 
@@ -82,7 +82,7 @@
 
 ## Waiting on the player
 
-- **The Cleveland co-resident in his Hinge photo:** name, and whether Philip still talks to him.
+- **Brad** (the co-resident in the Hinge photo): whether Philip still talks to him, and where he is now.
 - Anything else he brought from Cleveland: friends he still texts, things he misses, things he doesn't.
 
 ## Notes to self (Claude)
