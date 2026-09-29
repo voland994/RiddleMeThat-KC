@@ -15,6 +15,10 @@ Each person gets:
 - **She plans to visit Kansas City.** (When, and whether Dale comes, is open.)
 - **Her own life (proposed):** she has her own friends and routines, and her life doesn't revolve around her son. Possibly a serious birder (the Christmas Bird Count at Woodland Dunes in Two Rivers, a life list past 200). Philip knows she "watches birds" and doesn't know it's serious.
 - **Perceptiveness:** knows his voice better than anyone, but reads it through her own worries. Says it rarely, and sideways.
+- **Established in play (Sep 7, 2025):** administrative coordinator at the Manitowoc County offices for 11 years. Her supervisor **Jan** (parrot calendar) retires in December and told her to apply for the job; applications are due Oct 1. Philip said take it. She hasn't decided. A coworker, **Carol**, always wants deer-season week off.
+- **Visit:** Thu Oct 16 to Sun Oct 19, 2025, with Dale, flying (Philip buys hers; Dale buys his own). A hotel near the Plaza.
+- **What she knows:** the softened Euclid story (no spot in Cleveland; an eastern Ohio satellite; KC was the better job), and that Philip has "met someone" (no details).
+- **Call rhythm (player):** Philip calls at least once a week, often twice, and has for years.
 - **Writing note:** go easy on Wisconsin signifiers (Packers, Culver's, "hon," "for Pete's sake"). A few are texture; stacked, they turn her into a type.
 
 ### Dale Hintz, early 60s: Lisa's partner of about seven years (established)
@@ -84,6 +88,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Philip, to him:** a useful pair of hands. Possibly a future rival, which Eric hasn't thought about.
 - **Perceptiveness:** low to medium. Too busy. Takes people at face value.
 - **Voice:** fast, excited about technology, full of jargon.
+- **Established in play (Sep 8–9):** was EMU attending the week before Philip. Wants Kristen Doyle on the Sep 18 conference and leans SEEG (bilateral depths). Took Philip's pushback well ("You're going to be annoying at these. Good. We need that"). Concurred on Amber's functional seizures diagnosis from a parking lot. Wears an old Mayo lanyard.
 
 #### Shawna Pruitt, RN, 38: EMU charge nurse
 - Ten years on the unit. Grew up in Independence, Missouri. Community college, then a nursing degree.
@@ -91,6 +96,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Philip, to her:** judged entirely by his orders. His explicit orders quietly earn points.
 - **Perceptiveness:** sharp about competence, uninterested in feelings. Will say out loud when an order is bad.
 - **Voice:** blunt and funny. Nothing like Denise.
+- **Established in play (Sep 8):** "Welcome to the zoo." Sticky notes on monitors. Pushed him on the 2 mg lorazepam vs. the Meramec pathway and on Amber's no-answer case; satisfied with his fixes ("Someone wrote numbers. I could cry"). Working on a 1:4 overnight ratio proposal for the safety committee.
 
 #### Marcus Webb, 52: lead EEG technologist
 - 25 years in the job. Knows EEG artifacts better than most neurologists.
@@ -110,6 +116,9 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 
 #### Others
 - Two more epileptologists, unnamed until needed.
+- **Brooke, RN** (proposed name): EMU day nurse. Fast, calm, did textbook ictal testing on Amber.
+- **Tasha, RN** (proposed name): Denise's nurse line.
+- **Luis** (proposed name): the epilepsy neurosurgeon. Mentioned only.
 
 ### The friend from orientation (established; details proposed)
 
@@ -139,6 +148,13 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Tom Keller, 52,** stable on lamotrigine.
 - **Brett Sorensen, 19,** convulsive syncope, not epilepsy. Discharged from follow-up.
 
+### EMU patients, week of Sep 8 (outward facts only; hidden facts live in `precommits/2025-09-08-emu-week.md`)
+
+- **Kristen Doyle, 38.** Blue Springs math teacher, right-handed, husband **Rob** (UPS). Phase I presurgical (Eric's referral). Likely left mesial temporal epilepsy; "possible left MTS"; outside EEG bitemporal ~70/30; two lifetime tonic-clonics (last 2021). Lamotrigine + lacosamide. "I teach. I need my words." **Perceptiveness:** medium; composed, organized, asks direct questions.
+- **Amber Kowalski, 25.** Pharmacy tech (Raytown), lives with her mother **Diane** (school bus driver, 31 years; keeps a green spiral notebook of every event). Functional seizures, diagnosed Sep 9. Once intubated at Centerpoint (April 2025). An ED nurse once said "for attention." Gets a "far-away feeling" before events. **Perceptiveness:** medium; guarded, watches faces. Diane: high about behavior, says it plainly.
+- **Keith Barlow, 47.** Machinist (Excelsior Springs), wife **Sherry** (dental office). Focal epilepsy, MRI normal. Wants to go home; Sherry wants him to stay. **Perceptiveness:** low.
+- **Ernest "Ernie" Lyle, 79.** Retired postal carrier (Parkville), widowed; daughter **Donna** (paralegal). Four months of "spells." Apologizes to every nurse. **Perceptiveness:** low; Donna's is medium and anxious.
+
 ### Outside work
 
 #### Dr. Chiara Ferri, 31 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)
@@ -158,6 +174,7 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
   - **Body details:** a tank-top tan line; bruises on her shins; **a small tattoo on her lower left leg, near the ankle. What it is hasn't been established; Philip hasn't asked.**
   - **Ears:** one small silver hoop, one ear only.
   - **Style:** climbing clothes (faded tank, olive pants rolled to mid-calf, a worn red chalk bag); out, linen trousers, a plain sleeveless top, flat sandals. Nothing new-looking.
+- **Established in play (Sep 6, 2025):** sent her pinch project ("the potato") at Sequence; Philip sent it second try with her beta. First time at his apartment. Best friend **Giulia** (Bologna) plans to visit in the spring. Plays *briscola* (Uncle Franco cheats). Knows Philip lives in Roanoke and has a friend Sam. Asked once about his Friday "plans"; he said "Good yeah."
 - **Voice:** short direct lines, rounder vowels in person, Italian bursts ("*Ma dai*," "*Sì!*"), mock-solemn humor.
 
 #### Nadia Karimi, 33 (established in play; full precommit in `precommits/2025-08-hinge-pool.md`)

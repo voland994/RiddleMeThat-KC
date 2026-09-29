@@ -7,6 +7,8 @@
 - **Fictional stand-in for Saint Luke's Marion Bloch Neuroscience Institute,** the neuroscience institute of a large nonprofit health system's flagship hospital in Kansas City, Missouri, near the Country Club Plaza. [verify details against the real institution before leaning on them]
 - **Realistic shape (proposed, to confirm in play):** a comprehensive epilepsy center with an epilepsy monitoring unit, a small group of epileptologists, epilepsy surgery, ICU EEG, and outpatient clinics. Affiliated with the local university medical school, so there are neurology residents, internal medicine residents, and medical students.
 - **What he doesn't know yet:** whose patients he's inherited, who the real power is in the division, where the good coffee is, which nurses run the EMU.
+- **EMU (proposed):** fifth floor; a monitoring room with a wall of screens at the end of the hallway. Rounds at 7 a.m. Elective admissions arrive Monday mornings.
+- **The Meramec status epilepticus pathway** (system-standardized, March 2025): lorazepam 0.1 mg/kg IV, max 4 mg, laminated on the wall.
 - **Nonprofit employer,** so his PSLF payments keep counting.
 - **Checked against the real institution (Sep 2026 research):** adult Level 4 epilepsy center (NAEC's highest), **12-bed EMU**, monthly multidisciplinary epilepsy surgery conference, 3T MRI, ROSA robot. Level 1 comprehensive stroke center.
 - **Residency:** the real neurology residency (UMKC with Saint Luke's) takes **3 residents per year**, with rotations shared with the city safety-net hospital (University Health Truman) and pediatrics at Children's Mercy. In the story: a small program, so he'll know every resident by name.
@@ -32,4 +34,7 @@
 - **Weather in late August:** hot and humid, often around 90°F, with evening thunderstorms.
 - **Getting home:** Kansas City International Airport (MCI) has a new single terminal (opened 2023). Manitowoc is a long drive (about 600+ miles [verify]) or a connecting flight to Green Bay.
 - **Gram & Dun** (real): contemporary American restaurant at 600 Ward Parkway on the Country Club Plaza, with a big patio on Brush Creek. Dinner service runs roughly 3 or 4 p.m. to 9:30 or 10 [verify current hours]. Review sites (not the menu itself, which Claude couldn't reach) mention shrimp and grits, hanger steak, short rib tacos, and a smoked cocktail called the "Smoking Dun" [verify against the 2025 menu before leaning on any dish]. Walking distance from Roanoke (about 25–30 minutes, roughly 1.3 miles; a 5-minute drive, Plaza garages free [verify]) and from Chiara's place near the Plaza.
+- **Buzzard Beach** (real): a longtime Westport dive. Interior details in play are Claude's invention [verify].
+- **Westport bars that are closed (don't use):** Julep (closed May 2023), Manifesto in the Crossroads (closed 2020).
+- **Sep 6, 2025 (real):** Mizzou 42, KU 31 in Columbia (first meeting since 2011); Royals 11, Twins 2 at Kauffman.
 - **Clichés to go easy on:** barbecue, the Chiefs, "flyover country," cowboy imagery. A little is real texture. Stacked, it's a postcard.

@@ -120,6 +120,8 @@
 
 - **Lives in Roanoke,** the quiet side streets just west of Westport, in an old brick apartment building near Roanoke Park. The Westport bars are about five minutes' walk away, and the hospital is about 20 minutes' walk. Residents live around here too.
 - **The apartment is mostly unpacked.** He set aside one Saturday and did it. He's not sentimental about it.
+- **Inside the apartment (proposed Sep 6, not contradicted):** second floor; high ceilings, old radiators, wood floors, a rug, a gray couch, a window AC unit, a clear kitchen counter. Two full bookshelves plus a stack on the floor.
+- **Coffee (established):** one of his indulgences. A good drip machine (a **Moccamaster**, proposed), and opinions about roasts.
 - **Car: a 2023 Toyota Camry XLE,** his first "serious" car, bought on a fellow's salary (proposed). He needs a car in Kansas City and knows it.
 
 ## Money and taste (established)
