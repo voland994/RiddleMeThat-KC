@@ -87,6 +87,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Perceptiveness:** high. Almost never says what she reads. Shows it through which patients she sends him.
 - **Voice:** brisk and practical. Knows patients' first names and their dogs' names. Warm, but not anyone's mom.
 - **Home (established in cutaway):** a bungalow on the Westside, three blocks from where she grew up. Son **Gabe**, 17, a senior applying to KU Engineering. Judy Hartsock texts her every Monday asking about "my people."
+- **Established in play (Sep 10–11):** knew the one therapist who takes functional seizure patients (Ruth Okafor: "Don't just put it in Epic... Call her yourself"). Booked Cody's video visit ("Told him to have Alexis on the call. She's the one who remembers things").
 
 #### Dr. Eric Tran, 41: epileptologist and SEEG lead
 - Trained at Mayo, grew up in Houston, two small kids. Runs surgery conference.
@@ -95,6 +96,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Perceptiveness:** low to medium. Too busy. Takes people at face value.
 - **Voice:** fast, excited about technology, full of jargon.
 - **Established in play (Sep 8–9):** was EMU attending the week before Philip. Wants Kristen Doyle on the Sep 18 conference and leans SEEG (bilateral depths). Took Philip's pushback well ("You're going to be annoying at these. Good. We need that"). Concurred on Amber's functional seizures diagnosis from a parking lot. Wears an old Mayo lanyard.
+- **Established in play (Sep 10–12):** SEEG case Wednesday. Took "1 left, 1 nonlat" with "that's why I want depths but I hear you." After seizure 3, Philip said he leans toward bilateral SEEG ("look at you 😏"). **Philip will present Kristen at the Sep 18 conference** (slides by Tue night; Eric books the fMRI for Mon Sep 15). On functional seizure referrals: "We send them out and hope. Ask Denise."
 
 #### Shawna Pruitt, RN, 38: EMU charge nurse
 - Ten years on the unit. Grew up in Independence, Missouri. Community college, then a nursing degree.
@@ -103,6 +105,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Perceptiveness:** sharp about competence, uninterested in feelings. Will say out loud when an order is bad.
 - **Voice:** blunt and funny. Nothing like Denise.
 - **Established in play (Sep 8):** "Welcome to the zoo." Sticky notes on monitors. Pushed him on the 2 mg lorazepam vs. the Meramec pathway and on Amber's no-answer case; satisfied with his fixes ("Someone wrote numbers. I could cry"). Working on a 1:4 overnight ratio proposal for the safety committee.
+- **Established (Sep 10–12, including the Friday cutaway):** threw away the KOWALSKI sticky note at Amber's discharge. "Your orthostatics order on Lyle came with instructions. The day shift noticed." Her 1:4 overnight proposal was **tabled Sep 11** ("pending the Meramec staffing model review"). **Home (proposed):** Independence; son **Caleb**, 14, trumpet in the William Chrisman marching band. **Her verdict on Philip (cutaway):** checklist guy, numbers guy, "maybe a little too careful"; the best post-event order she's seen this year; never short with anyone. **She plans to ask him in October to sign on to the 1:4 staffing letter (proposed hook).**
 
 #### Marcus Webb, 52: lead EEG technologist
 - 25 years in the job. Knows EEG artifacts better than most neurologists.
@@ -112,6 +115,7 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Voice:** quiet and precise.
 
 - **Established (cutaway, Sep 4):** Meramec plans a remote overnight cEEG hub in St. Louis for Q1 2026 ("no reductions in force anticipated at this time"). His overnight techs are **Darnell** and **Rosa**. Lives in Grandview with his wife **Loretta**; has a grandson. Remembers that Philip called down twice during reading week before signing reports. Assumes a Euclid-trained doctor thinks hubs are normal. Hasn't decided whether to ask him for help.
+- **Offstage (Sep 11):** Meramec scheduled a video "listening session" on overnight monitoring for **Wed Sep 24.** Marcus will wait until after it before talking to any physician. Darnell asked whether they should "start looking." "Not yet."
 
 #### Dr. Tyler Brandt, PGY-3: neurology resident
 - From Wichita, KU medical school, lives in Westport.
@@ -125,6 +129,9 @@ The parent system, **Meramec Health** (St. Louis), absorbed Blue River's system 
 - **Brooke, RN** (proposed name): EMU day nurse. Fast, calm, did textbook ictal testing on Amber.
 - **Tasha, RN** (proposed name): Denise's nurse line.
 - **Luis** (proposed name): the epilepsy neurosurgeon. Mentioned only.
+- **Talia, RN** (proposed name): EMU day nurse. Caught Ernie at the sink.
+- **Dr. Ruth Okafor** (proposed): health psychologist in Blue River's behavioral health. Low, unhurried voice. Treats functional seizures if a doctor calls her directly; about a six-week wait. "Ambivalent is workable."
+- **Dr. Pham** (proposed): Ernie's primary care doctor. Reasonable, a little embarrassed.
 
 ### The friend from orientation (established; details proposed)
 
@@ -153,13 +160,15 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
 - **Harold Beck, 64,** post-stroke epilepsy, stable; wife **Carol** does the talking and keeps score of waiting times.
 - **Tom Keller, 52,** stable on lamotrigine.
 - **Brett Sorensen, 19,** convulsive syncope, not epilepsy. Discharged from follow-up.
+  - **Established (Sep 8–11):** smoked twice over Labor Day (told the nurse line when asked). **Home EEG: generalized 3–4 Hz spike-wave/polyspike-wave, activated by sleep loss and waking; likely an idiopathic generalized epilepsy.** Levetiracetam continues. Both seizures followed short nights (Aug 9: cousin **Manny**'s birthday, beers, cannabis, bed at 2; Dec 27: holiday doubles and a late night at Alexis's mother's). Sleeps four or five hours on work nights (up at 4:20; ride at 5:15). Philip's "one thing": protect seven to eight hours. **Video visit Tue Sep 23, 4:45 p.m.** (sleep). Took Tuesday off rather than wear the wires at work.
 
 ### EMU patients, week of Sep 8 (outward facts only; hidden facts live in `precommits/2025-09-08-emu-week.md`)
 
-- **Kristen Doyle, 38.** Blue Springs math teacher, right-handed, husband **Rob** (UPS). Phase I presurgical (Eric's referral). Likely left mesial temporal epilepsy; "possible left MTS"; outside EEG bitemporal ~70/30; two lifetime tonic-clonics (last 2021). Lamotrigine + lacosamide. "I teach. I need my words." **Perceptiveness:** medium; composed, organized, asks direct questions.
-- **Amber Kowalski, 25.** Pharmacy tech (Raytown), lives with her mother **Diane** (school bus driver, 31 years; keeps a green spiral notebook of every event). Functional seizures, diagnosed Sep 9. Once intubated at Centerpoint (April 2025). An ED nurse once said "for attention." Gets a "far-away feeling" before events. **Perceptiveness:** medium; guarded, watches faces. Diane: high about behavior, says it plainly.
-- **Keith Barlow, 47.** Machinist (Excelsior Springs), wife **Sherry** (dental office). Focal epilepsy, MRI normal. Wants to go home; Sherry wants him to stay. **Perceptiveness:** low.
-- **Ernest "Ernie" Lyle, 79.** Retired postal carrier (Parkville), widowed; daughter **Donna** (paralegal). Four months of "spells." Apologizes to every nurse. **Perceptiveness:** low; Donna's is medium and anxious.
+- **Kristen Doyle, 38.** Blue Springs math teacher, right-handed, husband **Rob** (UPS). Phase I presurgical (Eric's referral). Likely left mesial temporal epilepsy; "possible left MTS"; outside EEG bitemporal ~70/30; two lifetime tonic-clonics before this admission (last 2021, in class; a student filmed it). Lamotrigine + lacosamide. "I teach. I need my words." **Perceptiveness:** medium; composed, organized, asks direct questions.
+  - **Captured (Sep 10–12):** #1 Wed, left temporal; #2 Thu 03:41, out of sleep, nonlateralized; #3 Fri, left temporal onset, then right head version and a bilateral tonic-clonic (SpO2 86%). Meds restarted at full doses Friday. Philip told her: a strong left story, the right not cleared; fMRI + PET, then conference, then probably bilateral SEEG; naming-decline risk "about forty percent" for an open left resection, about 10% for laser, verbal memory about one in three, "not your number yet." Her note: *NOT MY NUMBER YET.* "If it's electrodes on both sides, I want you there."
+- **Amber Kowalski, 25.** Pharmacy tech (Raytown), lives with her mother **Diane** (school bus driver, 31 years; keeps a green spiral notebook of every event). Functional seizures, diagnosed Sep 9. Discharged Sep 10 on a one-week taper; still ambivalent ("What if KU says it's epilepsy?"). **Therapy: Dr. Ruth Okafor, first slot Mon Oct 20.** KU second opinion Oct 22 (Diane knows; Philip doesn't). Her pharmacy manager **Rick** "laminates everything." Once intubated at Centerpoint (April 2025). An ED nurse once said "for attention." Gets a "far-away feeling" before events. **Perceptiveness:** medium; guarded, watches faces. Diane: high about behavior, says it plainly.
+- **Keith Barlow, 47.** Machinist (Excelsior Springs), wife **Sherry** (dental office). Focal epilepsy, MRI normal. Rotating shifts (two weeks days, two weeks nights, six years). **Sherry's history (Sep 11):** focal impaired-awareness events out of sleep or within an hour of waking, "always his night weeks"; she has one 41-second video. No event in five days, including a sleep-deprivation night. Discharged Sep 12 on his prior meds; next step is monitoring timed to a night-shift week. Sherry: "Nobody ever asks the one who sees them." **Perceptiveness:** low.
+- **Ernest "Ernie" Lyle, 79.** Retired postal carrier (Parkville), widowed; daughter **Donna** (paralegal). Four months of "spells." Apologizes to every nurse. **Orthostatic presyncope** (captured Sep 10; amlodipine 10 → 5). Discharged Sep 11; Dr. Pham sees him next week with Donna's BP log. Donna: "Four months." **Perceptiveness:** low; Donna's is medium and anxious.
 
 ### Outside work
 
@@ -195,3 +204,4 @@ He met Philip at new-hire orientation on Aug 4. It's barely a friendship so far:
   - **Style:** tailored black blazer, white T-shirt, high-waisted pleated black trousers, a thin belt, plain black loafers, a thin gold chain, a plain steel watch, a laptop bag. No logos.
   - **Posture:** very upright, walks fast, takes up exactly her own space.
 - **Voice:** efficient, dry, self-deflating about her own glamour ("FIFA has very strong opinions about bathrooms").
+- **Established in play (Sep 10–11, 2025):** second date at **Le Fou Frog** (her pick, she paid: "Appeal granted"). His topic, possible worlds; her versions: Vienna, Tulsa (Karimi and Karimi, DDS), Boston, Shiraz ("That one's just my cousins"). **She's taking Riyadh as offered**; told her principal Fri Sep 12 ("He made the face"); she'll tell her father from Doha. She'll push for heat-stress and schedule language in the contractor requirements and knows how little she controls. Sister **Leila** (public defender, Denver). **She now knows** Euclid "went with someone else," the eastern Ohio satellite, and that he said no; that this was his EMU week (anonymous cases); and "It's a conference, but the stamp is mine." **They slept together at her loft** (proposed: River Market, fourth floor of a converted dry-goods warehouse, freight elevator, three arched windows, one very good chair, drawings everywhere). He stayed; she had a 5:30 a.m. London call. In bed: direct, dry, competitive, quiet ("I'm not a very patient person"). Gone Sep 13 to about Sep 28; she'll send "bathrooms," not sunsets. She hasn't asked whether he's seeing anyone, and he hasn't said.

@@ -4,31 +4,30 @@
 
 ## Where we are
 
-- **Episode 1 is complete** (Session 1): see `sessions/01-2025-08-25.md`.
-- **Episode 2 is complete** (Session 2, the social episode): see `sessions/02-2025-08-29.md`.
-- **Episode 3, part A (E03A) is complete** (Session 3): see `sessions/03-2025-09-06.md`.
-  - **Sat Sep 6:** Sequence with Chiara (she sent "the potato"; he sent it second try with her beta), Buzzard Beach in Westport, then **his apartment, her first time there.** She asked how his Friday "plans" went; he said **"Good yeah."** She still doesn't know about Nadia.
-  - **Sun Sep 7:** she judged his Moccamaster ("a very serious tea made of coffee"). **Lisa's call:** she and Dale visit **Oct 16 to 19** (flying; Philip buys Lisa's ticket; a Plaza hotel). Lisa knows he's "met someone." Her supervisor Jan told her to apply for Jan's job (due Oct 1); Philip said take it.
-  - **Mon Sep 8:** first EMU rounds. Shawna, explicit orders (a weight-based lorazepam split matching the Meramec pathway; for Amber, call him plus the reader, 2 minutes, then standard). A slow taper for Kristen, standard for Keith. He pushed back on Eric's SEEG pitch ("every electrode should answer a question"). Met Amber and Diane. Cody's home EEG went on; he told the nurse line he smoked twice over Labor Day; his sleep is poor.
-  - **Tue Sep 9:** Amber's typical event captured (Philip at the bedside). **He diagnosed functional seizures the same afternoon** (moved up from the E03B plan). Amber said "okay"; Diane asked for a second opinion, so Eric concurred that night and a KU referral went out. One more monitored night on reduced meds, then discharge on a taper if it's clean. **Kristen and Keith: no events yet.** Sam called about GPDs; Philip gave the read and sent him to the on-call.
-- **In-world now:** Tuesday night, Sep 9, 2025, about 8:30 p.m., Philip at home.
-- **Just sent:** Philip texted Chiara **"Saturday."** Her reply (written for the handoff, not yet shown to the player): *"Saturday. My turn to choose. You suffer. 🥔"* He told Eric "nothing yet" on Doyle.
-- **Next up: E03B, Wed Sep 10 to Fri Sep 12 ("the answers"), revised after E03A:**
+- **Episodes 1 and 2 are complete** (Sessions 1–2). **Episode 3 is complete:** E03A in `sessions/03-2025-09-06.md`, **E03B in `sessions/04-2025-09-10.md`.**
+- **E03B in brief (Wed Sep 10 to Fri Sep 12):**
+  - **Amber** was discharged on a taper, still ambivalent. Through Denise, Philip found **Dr. Ruth Okafor** (health psychology), who starts with her Oct 20.
+  - **Ernie's spells** were orthostatic (amlodipine back to 5). Philip called the PCP.
+  - **Kristen:** #1 left, #2 nonlateralized, #3 left going to a tonic-clonic. **Meds restarted.** Philip gave her real numbers ("about forty percent... not your number yet"). He **leans toward bilateral SEEG and will present her Sep 18.**
+  - **Keith:** Sherry's history ("always his night weeks"). A sleep-deprivation night produced no event. Home on his meds; next is monitoring timed to a night-shift week.
+  - **Cody's home EEG: generalized** discharges tied to sleep loss. Philip called him ("Different, not worse"; "protect the sleep"). Video visit Sep 23.
+  - **Nadia, second date** (Le Fou Frog, possible worlds): she's taking Riyadh; they slept together at her loft; she left Sat Sep 13.
+  - **Shawna cutaway:** a good verdict built from his orders; she plans to ask him to sign her 1:4 staffing letter in October (proposed).
+- **In-world now:** Friday night, Sep 12, 2025, after 7 p.m. Kristen is overnight on the monitor on restarted meds.
+- **Next up: Episode 4.** Proposed opening:
 
   | # | When | Scene | Mode |
   |---|---|---|---|
-  | — | Wed morning | Amber's discharge if the night is clean (the taper, the action plan, the FND therapy referral; Philip promised to find out who actually takes these patients). EMU rounds. | Summary (or short live) |
-  | — | Wed | Kristen, Keith, and Ernie: whatever the precommit says happens Wednesday. Cody's home EEG comes off in the afternoon. | Summary or live, per event |
-  | 5 | Wed Sep 10, evening | Nadia's second date (she picks and pays; he brings a topic; she leaves the 13th). | Live |
-  | — | Thursday | Philip reads Cody's home EEG (whether and how he calls Cody is the player's). Kristen's progress. Marcus does or doesn't approach him about the hub. | Summary with bracketed decisions |
-  | 6 | Friday | Keith: the no-answer discharge, or fight insurance for more days. Kristen's week ends. | Short live or summary |
-  | — | Fri evening | **Cutaway: Shawna,** the unit's verdict on his first week. | Cutaway |
-  | — | Close | Hooks: surgery conference Thu Sep 18, Chiara Saturday Sep 13, Nadia leaves Sep 13, Riyadh Sep 15, Sam and Katie's dinner, Lisa's visit. | Summary |
+  | 1 | Sat Sep 13 | **Chiara, her pick** ("You suffer. 🥔"). The first time he sees her since sleeping with Nadia. | Live |
+  | — | Sat morning | Kristen's discharge (who rounds on the weekend is open) | Summary |
+  | — | Mon Sep 15 | Kristen's fMRI; Nadia's Riyadh deadline (already decided) | Summary |
+  | — | Tue Sep 16 | Conference slides due | Summary |
+  | 2 | Thu Sep 18 | **Surgery conference: Philip presents Kristen** (Eric pushes depths; Luis nervous) | Live |
+  | — | Anytime | Sam and Katie's dinner; Lisa's ticket and hotel link | As needed |
 
-  **Precommits for E03B:** still in force: `precommits/2025-09-08-emu-week.md` (all four patients' weeks, **including the timeline shift from Kristen's slow taper**; don't spoil it to the player). **To write at the start of E03B:** Nadia's Wednesday (with an agent-made "knows" list, and her Riyadh decision; his interior wish must not tilt it), the weighted draw for Cody's home EEG, Marcus's decision, and the Shawna cutaway's inputs (her verdict must come only from his orders and what happened on her unit).
-- **Two people at once:** Chiara (Saturday) and Nadia (Wednesday). Neither knows about the other. Chiara asked about his Friday once and got "Good yeah"; she won't ask again. Her standing term (she'd want to know if he's sleeping with someone else) still hasn't been said aloud. Nadia's precommit says she's fine with it if told. **Whatever happens here happens through what Philip says, not through coincidence.**
-- **Precommits in force:** `2025-09-08-emu-week.md`, `2025-09-06-chiara-saturday.md` and `2025-09-07-lisa.md` (standing terms), `2025-08-hinge-pool.md`, `2025-09-03-cody-mri.md`, `2025-09-02-chiara-sequence.md`, `2025-08-30-chiara-dinner.md`, `2025-09-05-nadia.md`, `2025-09-03-sam.md`.
-- **Resolved by the player after E03A:** Chiara's "I can hear it" stays (kept, not retconned). The Amber delivery ruling is accepted (adequate; ambivalent; second opinion). The Cleveland co-resident in the Hinge photo is **Brad** (trained in neuroimmunology).
+  **Precommits to write before E04 play:** Chiara's Saturday (her pick of plan, what she's been doing, a fresh agent-made "knows" list; **whatever happens about Nadia happens only through what Philip says**); the surgery conference (who's in the room, each person's position, what the conference decides under different presentations; PET and fMRI results by draw where relevant).
+- **Two people, now both sexual:** Philip slept with Chiara (Aug 30, Sep 6) and Nadia (Sep 10). Neither knows about the other. Chiara's standing term (she'd want to know if he's sleeping with someone else) **has never been said aloud to him**, and she won't raise the Friday question again. Nadia didn't ask and is fine if told. Nothing comes out by coincidence.
+- **Precommits in force:** `2025-09-10-nadia.md` (her texts while away), `2025-09-10-e03b.md` (Amber, Cody, Marcus, Shawna going forward), `2025-09-08-emu-week.md` (Kristen's laterality is still undecided until SEEG is precommitted), `2025-09-06-chiara-saturday.md` and `2025-09-07-lisa.md` (standing terms), `2025-08-hinge-pool.md`, `2025-09-03-cody-mri.md`, `2025-09-02-chiara-sequence.md`, `2025-08-30-chiara-dinner.md`, `2025-09-05-nadia.md`, `2025-09-03-sam.md`.
 
 ## His first three weeks (established backstory)
 
@@ -66,14 +65,19 @@
 | Wed Sep 3, 2025 | Beer with Sam; Cody's MRI | Done |
 | Fri Sep 5, 2025 | First date with Nadia, Corvino | Done |
 | Sat Sep 6, 2025 | Chiara: Sequence, Buzzard Beach, his place | Done |
-| Sep 8–12, 2025 | First EMU week as attending (Episode 3) | In progress (Mon–Tue done) |
-| Wed Sep 10, 2025 | Second date with Nadia | Upcoming |
+| Sep 8–12, 2025 | First EMU week as attending (Episode 3) | Done |
+| Wed Sep 10, 2025 | Second date with Nadia, Le Fou Frog; her loft | Done |
 | Sat Sep 13, 2025 | Nadia leaves (back ~Sep 28) | Upcoming |
-| Mon Sep 15, 2025 | Nadia's Riyadh decision due | Upcoming |
-| Sep 8–10, 2025 | Cody's ambulatory EEG (48 h) | In progress |
+| Mon Sep 15, 2025 | Nadia's Riyadh deadline (she's taking it; told her principal Sep 12). Kristen's fMRI | Upcoming |
+| Sep 8–10, 2025 | Cody's ambulatory EEG (48 h): generalized discharges | Done |
 | Tue Sep 9, 2025 | Amber diagnosed with functional seizures | Done |
 | Sat Sep 13, 2025 | Chiara (her pick) | Upcoming |
-| Thu Sep 18, 2025 | Surgery conference (Kristen, if she's ready) | Upcoming |
+| Thu Sep 18, 2025 | Surgery conference: **Philip presents Kristen** | Upcoming |
+| Tue Sep 23, 2025 | Cody's video visit (sleep), 4:45 p.m. | Upcoming |
+| Wed Sep 24, 2025 | Meramec overnight-monitoring "listening session" (Marcus) | Upcoming (offstage) |
+| ~Sep 28, 2025 | Nadia back | Upcoming |
+| Mon Oct 20, 2025 | Amber starts with Dr. Okafor | Upcoming |
+| Wed Oct 22, 2025 | Amber's KU second opinion (Diane knows; Philip doesn't) | Upcoming |
 | Wed Oct 1, 2025 | Lisa's application for Jan's job due | Upcoming |
 | Oct 16–19, 2025 | Lisa and Dale visit | Upcoming |
 | Fri Oct 24, 2025 | Streetcar Main Street extension opens (to the Plaza and UMKC) | Upcoming (real) |
@@ -82,10 +86,17 @@
 
 ## Waiting on the player
 
+- **Merge E03B into `main`?** (Needs the player's OK.)
+- **Shawna's 1:4 letter hook** (proposed) and the new proposed names (Okafor, Talia, Pham, Rick, Manny, Leila, Caleb): accept or change.
+- **Kristen's weekend:** who discharges her Saturday (Philip rounds, or the weekend attending)?
+
 - **Brad:** which academic center (he does MS; they text a couple of times a year).
 - Anything else he brought from Cleveland: friends he still texts, things he misses, things he doesn't.
 
 ## Notes to self (Claude)
+
+- **E03B:** a clean week for reads (none spoken). Two things to watch: (1) saying "as written" for doses Claude extended (Kristen's lamotrigine days 4–5); (2) the player writing another character's answer (Eric's referral name). Hold the precommit and say so, as done.
+- **Intimate scenes:** the player asked for **short beats** so each choice matters. Keep Nadia's register (dry, competitive, quiet) distinct from Chiara's (narrated, loud, "the whole slow version").
 
 - **Session 3 slips to watch for:** one soft read in a warm Chiara scene ("I can hear it"), and a near-echo (her "the kind of person who says 'the schools'" landed close to Sam's Sep 3 moment she never saw). Same pattern as Session 2, smaller. Keep tracing lines to the "knows" list.
 - **Precommit lists get applied literally.** The Amber delivery was judged as missing "it's common," so it was adequate. Say so openly when the letter of a precommit bites against a strong performance, and don't bend it.
