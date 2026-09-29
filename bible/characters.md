@@ -54,7 +54,8 @@ Each person gets:
 ### Brad: co-resident (established)
 
 - A Euclid neurology co-resident who trained in **neuroimmunology.** In Philip's 3 a.m. vending-machine Hinge photo with Sana.
-- **Open:** his surname, where he is now, and whether Philip still talks to him.
+- **Now:** an MS (multiple sclerosis) neurologist at an academic center. **He and Philip text a couple of times a year.**
+- **Open:** his surname, and which academic center.
 
 ### Everyone else
 
