@@ -32,15 +32,14 @@ This repo is a collaborative fiction and roleplay project. There is no code. The
 - **Blue River Neuroscience Institute** (Kansas City) is a fictional stand-in for **Saint Luke's Marion Bloch Neuroscience Institute**. It's where Philip works now.
 - Use the fictional names in play. Use the real institutions only to check realism (size, services, geography).
 
-## Where the story lives (established Sep 2026)
+## Where the story lives (re-established Oct 2026)
 
-- **The story lives in a local folder on the player's PC,** as a git repository with **no remote.** Play happens in Claude Code opened in that folder.
-- **GitHub (`voland994/RiddleMeThat-KC`) is a frozen backup.** Don't push to it, and don't re-add it as a remote, unless the player asks. If they ask to refresh the backup, push `main` to it and nothing else.
-- **Work on `main`.** There are no pull requests. "Merge" just means the work is committed.
-- **Commit every precommit before the scene it covers is played.** The commit timestamp is the proof that the world didn't bend to Philip. This is the one git habit that matters most.
-- **Commit after each scene or natural break, and at the end of every session.**
+- **GitHub (`voland994/RiddleMeThat-KC`) is canonical again.** The player chose to keep play in cloud chats. This reverses the Sep 2026 "local folder, frozen backup" setup. A local clone may exist on the player's PC, but it is a copy and may be behind.
+- **`main` is the canonical story.** Every new chat starts from the latest `main`.
+- Each chat works on its own assigned branch and pushes to it. At the end of a session, open a pull request into `main` and merge it, **but only with the player's OK.** If `main` has moved, merge it into the working branch first.
+- **Commit every precommit, and push it, before the scene it covers is played.** The commit timestamp is the proof that the world didn't bend to Philip. This is the one git habit that matters most.
+- **Commit and push after each scene or natural break, and at the end of every session.** The cloud container is temporary, so unpushed work is lost.
 - **Never rewrite committed history** (no amend, rebase, or reset of commits that are already made). A retcon is a new commit that changes the text and says why.
-- **Every so often, remind the player to back up the folder** (an external drive or a synced folder). A single disk is a single point of failure.
 
 ## Subagents (established)
 
@@ -57,4 +56,4 @@ Use subagents (the Agent tool, **Sonnet** model) for work that shouldn't fill th
 
 - After each scene or natural break, update the session log (what happened, key lines, an "Inside" section for his thoughts, and open threads) plus any bible files that changed.
 - At the end of a session, update `STATE.md`.
-- Commit with clear messages (locally; there is no push).
+- Commit with clear messages and push.
